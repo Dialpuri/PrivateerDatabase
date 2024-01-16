@@ -211,6 +211,7 @@ def plot_and_save_per_year_summary(databasedir,pdbdir):
     save_json(year_range, deposperyear, glycansperyear, nglycansperyear, oglycansperyear, cglycansperyear, sglycansperyear, ligandsperyear)     
     fig, ax1 = plt.subplots()
     ax2 = ax1.twinx()
+    ax2.set_ylim(0,np.max(depositions)+0.01*np.max(depositions))
     colour = 'tab:blue'
     ax2.bar(years, depositions, label='Structures Deposited in PDB', color=colour)
     ax2.set_ylabel('Structured Deposited in PDB', color=colour)
