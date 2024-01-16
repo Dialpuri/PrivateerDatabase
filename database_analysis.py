@@ -11,7 +11,9 @@ import Bio.SeqRecord
 
 cwd = os.getcwd()
 #datadir = cwd + '/pdb'
-datadir = '/vault/pdb_mirror/data/structures/all/pdb'
+# datadir = '/vault/pdb_mirror/data/structures/all/pdb
+datadir = "/vault/privateer_database/pdb"
+
 def file_paths(root_directory):
     filepathlist = []
     for root, dirs, files in os.walk(root_directory):
@@ -22,7 +24,7 @@ def file_paths(root_directory):
 def get_year_pdb(jsonfilepath):
     jsonfilename = os.path.basename(jsonfilepath)
     pdbcode = jsonfilename.rpartition('.')[0]
-    print('Looking for pdb file corresponding to ' + jsonfilepath)
+    # print('Looking for pdb file corresponding to ' + jsonfilepath)
     pdbfilepath = '/vault/pdb/pdb' + pdbcode + '.ent'
     if os.path.isfile(pdbfilepath):
         pdbheader = Bio.PDB.parse_pdb_header(pdbfilepath)
@@ -39,6 +41,30 @@ def get_res_pdb(jsonfilepath):
     pdbheader = Bio.PDB.parse_pdb_header(pdbfilepath)
     res = pdbheader['resolution']
     return res
+
+def save_csv(year_range, glycansperyear, nglycansperyear, oglycansperyear):
+    assert(len(year_range) == len(glycansperyear))
+    assert(len(year_range) == len(nglycansperyear))
+    assert(len(year_range) == len(oglycansperyear))
+
+    output_file = "glycosylation_per_year.csv"
+    with open(output_file, "w") as output_file: 
+        output_file.write("Year,TotalGlycosylation,NGlycosylation,OGlycosyation\n")
+        for year, total, n, o in zip(year_range, glycansperyear,nglycansperyear, oglycansperyear):
+            output_file.write(f"{year},{total},{n},{o}\n")
+
+def save_json(year_range, glycansperyear, nglycansperyear, oglycansperyear):
+    assert(len(year_range) == len(glycansperyear))
+    assert(len(year_range) == len(nglycansperyear))
+    assert(len(year_range) == len(oglycansperyear))
+
+    output_file = "glycosylation_per_year.json"
+    data = {}
+    for year, total, n, o in zip(year_range, glycansperyear,nglycansperyear, oglycansperyear):
+        data[str(year)]={"total": int(total) ,"n-glycosylation": int(n), "o-glycosylation": int(o)}
+    with open(output_file, "w") as output_file: 
+        json.dump(data, output_file)
+
 
 def glycans_per_year(databasedir):
     print('Analysing database at ' + databasedir)
@@ -68,16 +94,21 @@ def glycans_per_year(databasedir):
 
     start = np.min(years)
     end = np.max(years)
-    year_range = np.arange(start,end)
-    nglycansperyear = np.zeros(len(year_range))
-    oglycansperyear = np.zeros(len(year_range))
-    glycansperyear = np.zeros(len(year_range))
+    year_range = np.arange(start,end, dtype=np.intc)
+    nglycansperyear = np.zeros(len(year_range), dtype=np.intc)
+    oglycansperyear = np.zeros(len(year_range), dtype=np.intc)
+    glycansperyear = np.zeros(len(year_range), dtype=np.intc)
     for i in range(len(year_range)):
         for j in range(len(years)):
             if years[j] == year_range[i]:
                 nglycansperyear[i] += nglycans[j]
                 oglycansperyear[i] += oglycans[j]
                 glycansperyear[i] += glycans[j]
+
+
+    # save_csv(year_range, glycansperyear, nglycansperyear, oglycansperyear)
+    save_json(year_range, glycansperyear, nglycansperyear, oglycansperyear)
+
     plt.plot(year_range, glycansperyear, label='Carbohydrate entries in PDB')
     plt.plot(year_range, nglycansperyear, label='N-glycosylated')
     plt.plot(year_range, oglycansperyear, label='O-glycosylated')
