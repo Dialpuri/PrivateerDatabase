@@ -1,227 +1,416 @@
 {
     "1977": {
-        "total": 4,
-        "n-glycosylation": 2,
-        "o-glycosylation": 0
+        "depositions": 0,
+        "totalglyco": 4,
+        "n-glycosylation": 0,
+        "o-glycosylation": 0,
+        "c-glycosylation": 0,
+        "s-glycosylation": 0,
+        "ligands": 4
     },
     "1978": {
-        "total": 7,
-        "n-glycosylation": 2,
-        "o-glycosylation": 0
+        "depositions": 0,
+        "totalglyco": 7,
+        "n-glycosylation": 0,
+        "o-glycosylation": 0,
+        "c-glycosylation": 0,
+        "s-glycosylation": 0,
+        "ligands": 7
     },
     "1979": {
-        "total": 1,
+        "depositions": 0,
+        "totalglyco": 1,
         "n-glycosylation": 0,
-        "o-glycosylation": 0
+        "o-glycosylation": 0,
+        "c-glycosylation": 0,
+        "s-glycosylation": 0,
+        "ligands": 1
     },
     "1980": {
-        "total": 0,
+        "depositions": 0,
+        "totalglyco": 0,
         "n-glycosylation": 0,
-        "o-glycosylation": 0
+        "o-glycosylation": 0,
+        "c-glycosylation": 0,
+        "s-glycosylation": 0,
+        "ligands": 0
     },
     "1981": {
-        "total": 2,
-        "n-glycosylation": 1,
-        "o-glycosylation": 0
+        "depositions": 0,
+        "totalglyco": 2,
+        "n-glycosylation": 2,
+        "o-glycosylation": 0,
+        "c-glycosylation": 0,
+        "s-glycosylation": 0,
+        "ligands": 0
     },
     "1982": {
-        "total": 0,
+        "depositions": 0,
+        "totalglyco": 0,
         "n-glycosylation": 0,
-        "o-glycosylation": 0
+        "o-glycosylation": 0,
+        "c-glycosylation": 0,
+        "s-glycosylation": 0,
+        "ligands": 0
     },
     "1983": {
-        "total": 0,
+        "depositions": 0,
+        "totalglyco": 0,
         "n-glycosylation": 0,
-        "o-glycosylation": 0
+        "o-glycosylation": 0,
+        "c-glycosylation": 0,
+        "s-glycosylation": 0,
+        "ligands": 0
     },
     "1984": {
-        "total": 0,
+        "depositions": 0,
+        "totalglyco": 0,
         "n-glycosylation": 0,
-        "o-glycosylation": 0
+        "o-glycosylation": 0,
+        "c-glycosylation": 0,
+        "s-glycosylation": 0,
+        "ligands": 0
     },
     "1985": {
-        "total": 0,
+        "depositions": 0,
+        "totalglyco": 0,
         "n-glycosylation": 0,
-        "o-glycosylation": 0
+        "o-glycosylation": 0,
+        "c-glycosylation": 0,
+        "s-glycosylation": 0,
+        "ligands": 0
     },
     "1986": {
-        "total": 1,
-        "n-glycosylation": 0,
-        "o-glycosylation": 0
+        "depositions": 0,
+        "totalglyco": 1,
+        "n-glycosylation": 1,
+        "o-glycosylation": 0,
+        "c-glycosylation": 0,
+        "s-glycosylation": 0,
+        "ligands": 0
     },
     "1987": {
-        "total": 0,
+        "depositions": 0,
+        "totalglyco": 0,
         "n-glycosylation": 0,
-        "o-glycosylation": 0
+        "o-glycosylation": 0,
+        "c-glycosylation": 0,
+        "s-glycosylation": 0,
+        "ligands": 0
     },
     "1988": {
-        "total": 6,
-        "n-glycosylation": 2,
-        "o-glycosylation": 0
+        "depositions": 0,
+        "totalglyco": 6,
+        "n-glycosylation": 4,
+        "o-glycosylation": 0,
+        "c-glycosylation": 0,
+        "s-glycosylation": 0,
+        "ligands": 2
     },
     "1989": {
-        "total": 10,
-        "n-glycosylation": 6,
-        "o-glycosylation": 1
+        "depositions": 0,
+        "totalglyco": 10,
+        "n-glycosylation": 5,
+        "o-glycosylation": 0,
+        "c-glycosylation": 0,
+        "s-glycosylation": 0,
+        "ligands": 7
     },
     "1990": {
-        "total": 15,
-        "n-glycosylation": 7,
-        "o-glycosylation": 0
+        "depositions": 0,
+        "totalglyco": 15,
+        "n-glycosylation": 2,
+        "o-glycosylation": 0,
+        "c-glycosylation": 0,
+        "s-glycosylation": 0,
+        "ligands": 13
     },
     "1991": {
-        "total": 38,
-        "n-glycosylation": 23,
-        "o-glycosylation": 0
+        "depositions": 0,
+        "totalglyco": 38,
+        "n-glycosylation": 21,
+        "o-glycosylation": 4,
+        "c-glycosylation": 0,
+        "s-glycosylation": 0,
+        "ligands": 20
     },
     "1992": {
-        "total": 41,
-        "n-glycosylation": 23,
-        "o-glycosylation": 1
+        "depositions": 0,
+        "totalglyco": 41,
+        "n-glycosylation": 21,
+        "o-glycosylation": 3,
+        "c-glycosylation": 0,
+        "s-glycosylation": 0,
+        "ligands": 20
     },
     "1993": {
-        "total": 45,
-        "n-glycosylation": 21,
-        "o-glycosylation": 2
+        "depositions": 0,
+        "totalglyco": 45,
+        "n-glycosylation": 17,
+        "o-glycosylation": 3,
+        "c-glycosylation": 0,
+        "s-glycosylation": 0,
+        "ligands": 30
     },
     "1994": {
-        "total": 93,
-        "n-glycosylation": 61,
-        "o-glycosylation": 5
+        "depositions": 0,
+        "totalglyco": 93,
+        "n-glycosylation": 39,
+        "o-glycosylation": 5,
+        "c-glycosylation": 0,
+        "s-glycosylation": 0,
+        "ligands": 61
     },
     "1995": {
-        "total": 95,
-        "n-glycosylation": 56,
-        "o-glycosylation": 3
+        "depositions": 0,
+        "totalglyco": 95,
+        "n-glycosylation": 43,
+        "o-glycosylation": 5,
+        "c-glycosylation": 0,
+        "s-glycosylation": 0,
+        "ligands": 55
     },
     "1996": {
-        "total": 91,
-        "n-glycosylation": 50,
-        "o-glycosylation": 2
+        "depositions": 0,
+        "totalglyco": 91,
+        "n-glycosylation": 34,
+        "o-glycosylation": 6,
+        "c-glycosylation": 0,
+        "s-glycosylation": 0,
+        "ligands": 62
     },
     "1997": {
-        "total": 119,
-        "n-glycosylation": 77,
-        "o-glycosylation": 3
+        "depositions": 0,
+        "totalglyco": 119,
+        "n-glycosylation": 58,
+        "o-glycosylation": 4,
+        "c-glycosylation": 0,
+        "s-glycosylation": 0,
+        "ligands": 72
     },
     "1998": {
-        "total": 149,
-        "n-glycosylation": 84,
-        "o-glycosylation": 8
+        "depositions": 0,
+        "totalglyco": 149,
+        "n-glycosylation": 55,
+        "o-glycosylation": 15,
+        "c-glycosylation": 0,
+        "s-glycosylation": 0,
+        "ligands": 89
     },
     "1999": {
-        "total": 196,
-        "n-glycosylation": 111,
-        "o-glycosylation": 8
+        "depositions": 0,
+        "totalglyco": 196,
+        "n-glycosylation": 89,
+        "o-glycosylation": 21,
+        "c-glycosylation": 0,
+        "s-glycosylation": 0,
+        "ligands": 112
     },
     "2000": {
-        "total": 237,
-        "n-glycosylation": 134,
-        "o-glycosylation": 8
+        "depositions": 2624,
+        "totalglyco": 237,
+        "n-glycosylation": 97,
+        "o-glycosylation": 19,
+        "c-glycosylation": 0,
+        "s-glycosylation": 0,
+        "ligands": 151
     },
     "2001": {
-        "total": 219,
-        "n-glycosylation": 123,
-        "o-glycosylation": 7
+        "depositions": 2812,
+        "totalglyco": 219,
+        "n-glycosylation": 103,
+        "o-glycosylation": 10,
+        "c-glycosylation": 0,
+        "s-glycosylation": 0,
+        "ligands": 128
     },
     "2002": {
-        "total": 324,
-        "n-glycosylation": 173,
-        "o-glycosylation": 13
+        "depositions": 2994,
+        "totalglyco": 324,
+        "n-glycosylation": 124,
+        "o-glycosylation": 13,
+        "c-glycosylation": 0,
+        "s-glycosylation": 0,
+        "ligands": 208
     },
     "2003": {
-        "total": 390,
-        "n-glycosylation": 221,
-        "o-glycosylation": 11
+        "depositions": 4147,
+        "totalglyco": 390,
+        "n-glycosylation": 137,
+        "o-glycosylation": 11,
+        "c-glycosylation": 0,
+        "s-glycosylation": 0,
+        "ligands": 278
     },
     "2004": {
-        "total": 353,
-        "n-glycosylation": 200,
-        "o-glycosylation": 12
+        "depositions": 5149,
+        "totalglyco": 353,
+        "n-glycosylation": 142,
+        "o-glycosylation": 17,
+        "c-glycosylation": 0,
+        "s-glycosylation": 0,
+        "ligands": 228
     },
     "2005": {
-        "total": 411,
-        "n-glycosylation": 225,
-        "o-glycosylation": 13
+        "depositions": 5334,
+        "totalglyco": 411,
+        "n-glycosylation": 175,
+        "o-glycosylation": 11,
+        "c-glycosylation": 0,
+        "s-glycosylation": 0,
+        "ligands": 269
     },
     "2006": {
-        "total": 469,
-        "n-glycosylation": 283,
-        "o-glycosylation": 18
+        "depositions": 6405,
+        "totalglyco": 469,
+        "n-glycosylation": 237,
+        "o-glycosylation": 23,
+        "c-glycosylation": 0,
+        "s-glycosylation": 1,
+        "ligands": 307
     },
     "2007": {
-        "total": 495,
-        "n-glycosylation": 300,
-        "o-glycosylation": 13
+        "depositions": 7134,
+        "totalglyco": 495,
+        "n-glycosylation": 205,
+        "o-glycosylation": 10,
+        "c-glycosylation": 0,
+        "s-glycosylation": 0,
+        "ligands": 327
     },
     "2008": {
-        "total": 435,
-        "n-glycosylation": 247,
-        "o-glycosylation": 21
+        "depositions": 6903,
+        "totalglyco": 435,
+        "n-glycosylation": 176,
+        "o-glycosylation": 10,
+        "c-glycosylation": 0,
+        "s-glycosylation": 0,
+        "ligands": 286
     },
     "2009": {
-        "total": 590,
-        "n-glycosylation": 339,
-        "o-glycosylation": 24
+        "depositions": 7288,
+        "totalglyco": 590,
+        "n-glycosylation": 260,
+        "o-glycosylation": 13,
+        "c-glycosylation": 0,
+        "s-glycosylation": 0,
+        "ligands": 372
     },
     "2010": {
-        "total": 655,
-        "n-glycosylation": 363,
-        "o-glycosylation": 21
+        "depositions": 7743,
+        "totalglyco": 655,
+        "n-glycosylation": 275,
+        "o-glycosylation": 16,
+        "c-glycosylation": 1,
+        "s-glycosylation": 1,
+        "ligands": 428
     },
     "2011": {
-        "total": 750,
-        "n-glycosylation": 434,
-        "o-glycosylation": 26
+        "depositions": 7926,
+        "totalglyco": 750,
+        "n-glycosylation": 359,
+        "o-glycosylation": 36,
+        "c-glycosylation": 4,
+        "s-glycosylation": 0,
+        "ligands": 416
     },
     "2012": {
-        "total": 772,
-        "n-glycosylation": 446,
-        "o-glycosylation": 26
+        "depositions": 8751,
+        "totalglyco": 772,
+        "n-glycosylation": 411,
+        "o-glycosylation": 26,
+        "c-glycosylation": 1,
+        "s-glycosylation": 0,
+        "ligands": 386
     },
     "2013": {
-        "total": 862,
-        "n-glycosylation": 509,
-        "o-glycosylation": 32
+        "depositions": 9337,
+        "totalglyco": 862,
+        "n-glycosylation": 499,
+        "o-glycosylation": 15,
+        "c-glycosylation": 1,
+        "s-glycosylation": 1,
+        "ligands": 455
     },
     "2014": {
-        "total": 898,
-        "n-glycosylation": 476,
-        "o-glycosylation": 24
+        "depositions": 9554,
+        "totalglyco": 898,
+        "n-glycosylation": 431,
+        "o-glycosylation": 28,
+        "c-glycosylation": 2,
+        "s-glycosylation": 1,
+        "ligands": 527
     },
     "2015": {
-        "total": 952,
-        "n-glycosylation": 542,
-        "o-glycosylation": 41
+        "depositions": 9244,
+        "totalglyco": 952,
+        "n-glycosylation": 499,
+        "o-glycosylation": 45,
+        "c-glycosylation": 0,
+        "s-glycosylation": 2,
+        "ligands": 523
     },
     "2016": {
-        "total": 1026,
-        "n-glycosylation": 646,
-        "o-glycosylation": 35
+        "depositions": 10807,
+        "totalglyco": 1026,
+        "n-glycosylation": 600,
+        "o-glycosylation": 44,
+        "c-glycosylation": 6,
+        "s-glycosylation": 0,
+        "ligands": 485
     },
     "2017": {
-        "total": 1032,
-        "n-glycosylation": 568,
-        "o-glycosylation": 25
+        "depositions": 11061,
+        "totalglyco": 1032,
+        "n-glycosylation": 608,
+        "o-glycosylation": 48,
+        "c-glycosylation": 0,
+        "s-glycosylation": 0,
+        "ligands": 480
     },
     "2018": {
-        "total": 1006,
-        "n-glycosylation": 602,
-        "o-glycosylation": 27
+        "depositions": 11156,
+        "totalglyco": 1007,
+        "n-glycosylation": 632,
+        "o-glycosylation": 25,
+        "c-glycosylation": 4,
+        "s-glycosylation": 1,
+        "ligands": 424
     },
     "2019": {
-        "total": 1200,
-        "n-glycosylation": 720,
-        "o-glycosylation": 37
+        "depositions": 11474,
+        "totalglyco": 1200,
+        "n-glycosylation": 696,
+        "o-glycosylation": 38,
+        "c-glycosylation": 11,
+        "s-glycosylation": 1,
+        "ligands": 596
     },
     "2020": {
-        "total": 1461,
-        "n-glycosylation": 863,
-        "o-glycosylation": 41
+        "depositions": 13986,
+        "totalglyco": 1461,
+        "n-glycosylation": 1055,
+        "o-glycosylation": 36,
+        "c-glycosylation": 1,
+        "s-glycosylation": 1,
+        "ligands": 508
     },
     "2021": {
-        "total": 1497,
-        "n-glycosylation": 831,
-        "o-glycosylation": 60
+        "depositions": 12574,
+        "totalglyco": 1558,
+        "n-glycosylation": 1201,
+        "o-glycosylation": 52,
+        "c-glycosylation": 6,
+        "s-glycosylation": 1,
+        "ligands": 486
+    },
+    "2022": {
+        "depositions": 14271,
+        "totalglyco": 1549,
+        "n-glycosylation": 1263,
+        "o-glycosylation": 27,
+        "c-glycosylation": 4,
+        "s-glycosylation": 5,
+        "ligands": 402
     }
 }
