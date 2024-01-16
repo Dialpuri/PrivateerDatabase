@@ -11,7 +11,7 @@ import Bio.SeqRecord
 
 cwd = os.getcwd()
 #datadir = cwd + '/pdb'
-datadir = '/vault/privateer_database/pdb'
+datadir = '/vault/pdb_mirror/data/structures/all/pdb'
 def file_paths(root_directory):
     filepathlist = []
     for root, dirs, files in os.walk(root_directory):
