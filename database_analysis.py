@@ -74,28 +74,34 @@ def get_res_pdb(jsonfilepath, pdbdir):
     res = pdbheader['resolution']
     return res
 
-def save_csv(year_range, glycansperyear, nglycansperyear, oglycansperyear, depositionsperyear):
+def save_csv(year_range, depositionsperyear, glycansperyear, nglycansperyear, oglycansperyear, cglycansperyear, sglycansperyear, ligandsperyear):
+    assert(len(year_range) == len(depositionsperyear))
     assert(len(year_range) == len(glycansperyear))
     assert(len(year_range) == len(nglycansperyear))
     assert(len(year_range) == len(oglycansperyear))
-    assert(len(year_range) == len(depositionsperyear))
+    assert(len(year_range) == len(sglycansperyear))
+    assert(len(year_range) == len(cglycansperyear))
+    assert(len(year_range) == len(ligandsperyear))
 
     output_file = "glycosylation_per_year.csv"
     with open(output_file, "w") as output_file: 
-        output_file.write("Year,TotalDepositions,TotalGlycosylation,NGlycosylation,OGlycosyation\n")
-        for year, depo, total, n, o in zip(year_range, depositionsperyear, glycansperyear,nglycansperyear, oglycansperyear):
-            output_file.write(f"{year},{depo},{total},{n},{o}\n")
+        output_file.write("Year,TotalDepositions,TotalGlycosylation,NGlycosylation,OGlycosyation,CGlycosyation,SGlycosyation,Ligands\n")
+        for year, depo, total, n, o, c, s, l in zip(year_range, depositionsperyear, glycansperyear,nglycansperyear, oglycansperyear, cglycansperyear, sglycansperyear, ligandsperyear):
+            output_file.write(f"{year},{depo},{total},{n},{o},{c},{s},{l}\n")
 
-def save_json(year_range, glycansperyear, nglycansperyear, oglycansperyear, depositionsperyear):
+def save_json(year_range, depositionsperyear, glycansperyear, nglycansperyear, oglycansperyear, cglycansperyear, sglycansperyear, ligandsperyear):
+    assert(len(year_range) == len(depositionsperyear))
     assert(len(year_range) == len(glycansperyear))
     assert(len(year_range) == len(nglycansperyear))
     assert(len(year_range) == len(oglycansperyear))
-    assert(len(year_range) == len(depositionsperyear))
+    assert(len(year_range) == len(sglycansperyear))
+    assert(len(year_range) == len(cglycansperyear))
+    assert(len(year_range) == len(ligandsperyear))
 
     output_file = "glycosylation_per_year.json"
     data = {}
-    for year, depo, total, n, o in zip(year_range, depositionsperyear, glycansperyear,nglycansperyear, oglycansperyear):
-        data[str(year)]={"depositions": int(depo), "totalglyco": int(total) ,"n-glycosylation": int(n), "o-glycosylation": int(o)}
+    for year, depo, total, n, o, c, s, l in zip(year_range, depositionsperyear, glycansperyear,nglycansperyear, oglycansperyear, cglycansperyear, sglycansperyear, ligandsperyear):
+        data[str(year)]={"depositions": int(depo), "totalglyco": int(total) ,"n-glycosylation": int(n), "o-glycosylation": int(o), "c-glycosylation": int(c), "s-glycosylation": int(s), "ligands": int(l)}
     with open(output_file, "w") as output_file: 
         json.dump(data, output_file)
 
@@ -174,8 +180,13 @@ def depositions_per_year():
 def plot_and_save_per_year_summary(databasedir,pdbdir):
     year_range, glycansperyear, nglycansperyear, oglycansperyear, sglycansperyear, cglycansperyear, ligandsperyear = glycans_per_year(databasedir, pdbdir)
     years, depositions = depositions_per_year()
-    # save_csv(year_range, glycansperyear, nglycansperyear, oglycansperyear, depositions)
-    save_json(year_range, glycansperyear, nglycansperyear, oglycansperyear, depositions)     
+    deposperyear = np.zeros(len(year_range))
+    for i in range(len(year_range)):
+        for j in range(len(years)):
+            if years[j] == year_range[i]:
+                deposperyear[i] = depositions[j]
+    # save_csv(year_range, deposperyear, glycansperyear, nglycansperyear, oglycansperyear, cglycansperyear, sglycansperyear, ligandsperyear)
+    save_json(year_range, deposperyear, glycansperyear, nglycansperyear, oglycansperyear, cglycansperyear, sglycansperyear, ligandsperyear)     
     fig, ax1 = plt.subplots()
     ax2 = ax1.twinx()
     colour = 'tab:blue'
@@ -189,6 +200,7 @@ def plot_and_save_per_year_summary(databasedir,pdbdir):
     ax1.plot(year_range, ligandsperyear, label='Ligands')
     ax1.set_xlabel('Release Year')
     ax1.set_ylabel('Carbohydrate Entries in PDB')
+    ax1.set_ylim(0,np.max(glycansperyear)+0.01*np.max(glycansperyear))
     ax1.legend()
     plt.tight_layout()
     plt.savefig(cwd+'/glycosylated_per_year.png')
