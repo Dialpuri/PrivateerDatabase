@@ -6,6 +6,7 @@ import json
 from datetime import datetime
 import requests
 from bs4 import BeautifulSoup
+import gzip
 
 import Bio
 import Bio.PDB
@@ -14,8 +15,8 @@ import Bio.SeqRecord
 cwd = os.getcwd()
 #datadir = cwd + '/pdb'
 datadir = '/vault/privateer_database/pdb/'
-#pdbdir = '/vault/pdb_mirror/data/structures/all/pdb/' # Up to date
-pdbdir = '/vault/pdb/' #Old
+pdbdir = '/vault/pdb_mirror/data/structures/all/pdb/' # Up to date
+# pdbdir = '/vault/pdb/' #Old
 def file_paths(root_directory):
     """
     Function to find all the files in the database
@@ -26,6 +27,27 @@ def file_paths(root_directory):
             filepathlist.append(os.path.join(root,f))
     return filepathlist
 
+def get_pdb_path(pdb_code: str) -> str:
+    """Get PDB path, if the PDB is zipped, then unzip and return the new path 
+
+    Args:
+        pdb_code (str): 4 letter PDB code
+
+    Returns:
+        str: path to the unzipped PDB file
+    """
+    gzipped_pdb = f"/vault/pdb_mirror/data/structures/all/pdb/pdb{pdb_code}.ent.gz"
+    unzipped_pdb = f"/vault/tmp_extracted_pdbs/pdb{pdb_code}.ent"
+
+    if os.path.exists(unzipped_pdb):
+        return unzipped_pdb
+
+    with gzip.open(gzipped_pdb, 'rb') as f_in:
+        with open(unzipped_pdb, 'wb') as f_out:
+            shutil.copyfileobj(f_in, f_out)
+
+    return unzipped_pdb
+
 def get_year_pdb_old_mirror(jsonfilepath, pdbdir):
     """
     Function to find the year the structure corresponding to a particular database entry was deposited
@@ -34,7 +56,7 @@ def get_year_pdb_old_mirror(jsonfilepath, pdbdir):
     """
     jsonfilename = os.path.basename(jsonfilepath)
     pdbcode = jsonfilename.rpartition('.')[0]
-    print('Looking for pdb file corresponding to ' + jsonfilepath)
+    # print('Looking for pdb file corresponding to ' + jsonfilepath)
     pdbfilepath = pdbdir + 'pdb' + pdbcode + '.ent'
     if os.path.isfile(pdbfilepath): #Checking if file exists
         pdbheader = Bio.PDB.parse_pdb_header(pdbfilepath)
@@ -54,8 +76,8 @@ def get_year_pdb(jsonfilepath, pdbdir):
     """
     jsonfilename = os.path.basename(jsonfilepath)
     pdbcode = jsonfilename.rpartition('.')[0]
-    print('Looking for pdb file corresponding to ' + jsonfilepath)
-    pdbfilepath = pdbdir + 'pdb' + pdbcode + '.ent.gz'
+    # print('Looking for pdb file corresponding to ' + jsonfilepath)
+    pdbfilepath = get_pdb_path(pdbcode)
     pdbheader = Bio.PDB.parse_pdb_header(pdbfilepath)
     datestring = pdbheader['deposition_date']
     dt = datetime.strptime(datestring, '%Y-%m-%d')
@@ -101,7 +123,7 @@ def save_json(year_range, depositionsperyear, glycansperyear, nglycansperyear, o
     output_file = "glycosylation_per_year.json"
     data = {}
     for year, depo, total, n, o, c, s, l in zip(year_range, depositionsperyear, glycansperyear,nglycansperyear, oglycansperyear, cglycansperyear, sglycansperyear, ligandsperyear):
-        data[str(year)]={"depositions": int(depo), "totalglyco": int(total) ,"n-glycosylation": int(n), "o-glycosylation": int(o), "c-glycosylation": int(c), "s-glycosylation": int(s), "ligands": int(l)}
+        data[str(year)]={"totalDepositions": int(depo), "totalGlycans": int(total) ,"nGlycans": int(n), "oGlycans": int(o), "cGlycans": int(c), "sGlycans": int(s), "ligands": int(l)}
     with open(output_file, "w") as output_file: 
         json.dump(data, output_file)
 
@@ -117,7 +139,7 @@ def glycans_per_year(databasedir, pdbdir):
     years = np.zeros(len(filepathlist))
     for i in range(len(filepathlist)):
         jsonfile = filepathlist[i]
-        years[i] = get_year_pdb_old_mirror(jsonfile,pdbdir) 
+        years[i] = get_year_pdb(jsonfile,pdbdir) 
         with open(jsonfile, 'r') as f:
             data = json.load(f)
             glycandata = data['glycans']
@@ -138,16 +160,16 @@ def glycans_per_year(databasedir, pdbdir):
                 ligands[i] = 1
             if len(nglycan)>0 or len(oglycan)>0 or len(sglycan)>0 or len(cglycan)>0 or len(ligand)>0:
                 glycans[i] = 1
-    years = np.delete(years, np.where(years == 123456789)[0])
+    # years = np.delete(years, np.where(years == 123456789)[0])
     start = np.min(years)
     end = np.max(years)
-    year_range = np.arange(start,end)
-    nglycansperyear = np.zeros(len(year_range))
-    oglycansperyear = np.zeros(len(year_range))
-    sglycansperyear = np.zeros(len(year_range))
-    cglycansperyear = np.zeros(len(year_range))
-    ligandsperyear = np.zeros(len(year_range))
-    glycansperyear = np.zeros(len(year_range))
+    year_range = np.arange(start,end, dtype=np.intc)
+    nglycansperyear = np.zeros(len(year_range), dtype=np.intc)
+    oglycansperyear = np.zeros(len(year_range), dtype=np.intc)
+    sglycansperyear = np.zeros(len(year_range), dtype=np.intc)
+    cglycansperyear = np.zeros(len(year_range), dtype=np.intc)
+    ligandsperyear = np.zeros(len(year_range), dtype=np.intc)
+    glycansperyear = np.zeros(len(year_range), dtype=np.intc)
     for i in range(len(year_range)):
         for j in range(len(years)):
             if years[j] == year_range[i]:
