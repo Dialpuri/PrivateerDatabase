@@ -163,7 +163,7 @@ def glycans_per_year(databasedir, pdbdir):
     # years = np.delete(years, np.where(years == 123456789)[0])
     start = np.min(years)
     end = np.max(years)
-    year_range = np.arange(start,end, dtype=np.intc)
+    year_range = np.arange(start,end+1, dtype=np.intc)
     nglycansperyear = np.zeros(len(year_range), dtype=np.intc)
     oglycansperyear = np.zeros(len(year_range), dtype=np.intc)
     sglycansperyear = np.zeros(len(year_range), dtype=np.intc)
