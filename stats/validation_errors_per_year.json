@@ -1,190 +1,338 @@
 {
-    "1977": {
-        "totalGlyco": 4,
-        "totalErrors": 3
+    "pdbredo": {
+        "1988": {
+            "totalGlycans": 3,
+            "totalErrors": 0
+        },
+        "1989": {
+            "totalGlycans": 5,
+            "totalErrors": 1
+        },
+        "1990": {
+            "totalGlycans": 1,
+            "totalErrors": 0
+        },
+        "1991": {
+            "totalGlycans": 15,
+            "totalErrors": 4
+        },
+        "1992": {
+            "totalGlycans": 11,
+            "totalErrors": 1
+        },
+        "1993": {
+            "totalGlycans": 15,
+            "totalErrors": 2
+        },
+        "1994": {
+            "totalGlycans": 32,
+            "totalErrors": 4
+        },
+        "1995": {
+            "totalGlycans": 45,
+            "totalErrors": 3
+        },
+        "1996": {
+            "totalGlycans": 46,
+            "totalErrors": 11
+        },
+        "1997": {
+            "totalGlycans": 69,
+            "totalErrors": 25
+        },
+        "1998": {
+            "totalGlycans": 77,
+            "totalErrors": 29
+        },
+        "1999": {
+            "totalGlycans": 121,
+            "totalErrors": 51
+        },
+        "2000": {
+            "totalGlycans": 148,
+            "totalErrors": 72
+        },
+        "2001": {
+            "totalGlycans": 143,
+            "totalErrors": 41
+        },
+        "2002": {
+            "totalGlycans": 233,
+            "totalErrors": 81
+        },
+        "2003": {
+            "totalGlycans": 326,
+            "totalErrors": 97
+        },
+        "2004": {
+            "totalGlycans": 299,
+            "totalErrors": 60
+        },
+        "2005": {
+            "totalGlycans": 362,
+            "totalErrors": 114
+        },
+        "2006": {
+            "totalGlycans": 412,
+            "totalErrors": 137
+        },
+        "2007": {
+            "totalGlycans": 460,
+            "totalErrors": 140
+        },
+        "2008": {
+            "totalGlycans": 439,
+            "totalErrors": 127
+        },
+        "2009": {
+            "totalGlycans": 592,
+            "totalErrors": 195
+        },
+        "2010": {
+            "totalGlycans": 669,
+            "totalErrors": 156
+        },
+        "2011": {
+            "totalGlycans": 733,
+            "totalErrors": 122
+        },
+        "2012": {
+            "totalGlycans": 774,
+            "totalErrors": 205
+        },
+        "2013": {
+            "totalGlycans": 852,
+            "totalErrors": 237
+        },
+        "2014": {
+            "totalGlycans": 897,
+            "totalErrors": 215
+        },
+        "2015": {
+            "totalGlycans": 933,
+            "totalErrors": 154
+        },
+        "2016": {
+            "totalGlycans": 1001,
+            "totalErrors": 165
+        },
+        "2017": {
+            "totalGlycans": 990,
+            "totalErrors": 169
+        },
+        "2018": {
+            "totalGlycans": 893,
+            "totalErrors": 194
+        },
+        "2019": {
+            "totalGlycans": 1052,
+            "totalErrors": 233
+        },
+        "2020": {
+            "totalGlycans": 1043,
+            "totalErrors": 238
+        },
+        "2021": {
+            "totalGlycans": 893,
+            "totalErrors": 242
+        },
+        "2022": {
+            "totalGlycans": 603,
+            "totalErrors": 211
+        },
+        "2023": {
+            "totalGlycans": 144,
+            "totalErrors": 41
+        }
     },
-    "1978": {
-        "totalGlyco": 7,
-        "totalErrors": 4
-    },
-    "1979": {
-        "totalGlyco": 1,
-        "totalErrors": 0
-    },
-    "1980": {
-        "totalGlyco": 0,
-        "totalErrors": 0
-    },
-    "1981": {
-        "totalGlyco": 2,
-        "totalErrors": 2
-    },
-    "1982": {
-        "totalGlyco": 0,
-        "totalErrors": 0
-    },
-    "1983": {
-        "totalGlyco": 0,
-        "totalErrors": 0
-    },
-    "1984": {
-        "totalGlyco": 0,
-        "totalErrors": 0
-    },
-    "1985": {
-        "totalGlyco": 0,
-        "totalErrors": 0
-    },
-    "1986": {
-        "totalGlyco": 1,
-        "totalErrors": 0
-    },
-    "1987": {
-        "totalGlyco": 0,
-        "totalErrors": 0
-    },
-    "1988": {
-        "totalGlyco": 6,
-        "totalErrors": 3
-    },
-    "1989": {
-        "totalGlyco": 10,
-        "totalErrors": 5
-    },
-    "1990": {
-        "totalGlyco": 15,
-        "totalErrors": 4
-    },
-    "1991": {
-        "totalGlyco": 38,
-        "totalErrors": 20
-    },
-    "1992": {
-        "totalGlyco": 41,
-        "totalErrors": 19
-    },
-    "1993": {
-        "totalGlyco": 45,
-        "totalErrors": 12
-    },
-    "1994": {
-        "totalGlyco": 93,
-        "totalErrors": 34
-    },
-    "1995": {
-        "totalGlyco": 95,
-        "totalErrors": 21
-    },
-    "1996": {
-        "totalGlyco": 91,
-        "totalErrors": 18
-    },
-    "1997": {
-        "totalGlyco": 119,
-        "totalErrors": 30
-    },
-    "1998": {
-        "totalGlyco": 149,
-        "totalErrors": 38
-    },
-    "1999": {
-        "totalGlyco": 196,
-        "totalErrors": 75
-    },
-    "2000": {
-        "totalGlyco": 237,
-        "totalErrors": 100
-    },
-    "2001": {
-        "totalGlyco": 219,
-        "totalErrors": 57
-    },
-    "2002": {
-        "totalGlyco": 324,
-        "totalErrors": 112
-    },
-    "2003": {
-        "totalGlyco": 390,
-        "totalErrors": 133
-    },
-    "2004": {
-        "totalGlyco": 353,
-        "totalErrors": 115
-    },
-    "2005": {
-        "totalGlyco": 411,
-        "totalErrors": 154
-    },
-    "2006": {
-        "totalGlyco": 469,
-        "totalErrors": 164
-    },
-    "2007": {
-        "totalGlyco": 495,
-        "totalErrors": 139
-    },
-    "2008": {
-        "totalGlyco": 435,
-        "totalErrors": 115
-    },
-    "2009": {
-        "totalGlyco": 590,
-        "totalErrors": 173
-    },
-    "2010": {
-        "totalGlyco": 655,
-        "totalErrors": 132
-    },
-    "2011": {
-        "totalGlyco": 750,
-        "totalErrors": 138
-    },
-    "2012": {
-        "totalGlyco": 772,
-        "totalErrors": 119
-    },
-    "2013": {
-        "totalGlyco": 862,
-        "totalErrors": 128
-    },
-    "2014": {
-        "totalGlyco": 898,
-        "totalErrors": 163
-    },
-    "2015": {
-        "totalGlyco": 952,
-        "totalErrors": 129
-    },
-    "2016": {
-        "totalGlyco": 1026,
-        "totalErrors": 147
-    },
-    "2017": {
-        "totalGlyco": 1032,
-        "totalErrors": 143
-    },
-    "2018": {
-        "totalGlyco": 1007,
-        "totalErrors": 119
-    },
-    "2019": {
-        "totalGlyco": 1200,
-        "totalErrors": 187
-    },
-    "2020": {
-        "totalGlyco": 1461,
-        "totalErrors": 210
-    },
-    "2021": {
-        "totalGlyco": 1558,
-        "totalErrors": 227
-    },
-    "2022": {
-        "totalGlyco": 1549,
-        "totalErrors": 195
-    },
-    "2023": {
-        "totalGlyco": 498,
-        "totalErrors": 67
+    "pdb": {
+        "1977": {
+            "totalGlycans": 4,
+            "totalErrors": 3
+        },
+        "1978": {
+            "totalGlycans": 7,
+            "totalErrors": 4
+        },
+        "1979": {
+            "totalGlycans": 1,
+            "totalErrors": 0
+        },
+        "1980": {
+            "totalGlycans": 0,
+            "totalErrors": 0
+        },
+        "1981": {
+            "totalGlycans": 2,
+            "totalErrors": 2
+        },
+        "1982": {
+            "totalGlycans": 0,
+            "totalErrors": 0
+        },
+        "1983": {
+            "totalGlycans": 0,
+            "totalErrors": 0
+        },
+        "1984": {
+            "totalGlycans": 0,
+            "totalErrors": 0
+        },
+        "1985": {
+            "totalGlycans": 0,
+            "totalErrors": 0
+        },
+        "1986": {
+            "totalGlycans": 1,
+            "totalErrors": 0
+        },
+        "1987": {
+            "totalGlycans": 0,
+            "totalErrors": 0
+        },
+        "1988": {
+            "totalGlycans": 6,
+            "totalErrors": 3
+        },
+        "1989": {
+            "totalGlycans": 10,
+            "totalErrors": 5
+        },
+        "1990": {
+            "totalGlycans": 15,
+            "totalErrors": 4
+        },
+        "1991": {
+            "totalGlycans": 38,
+            "totalErrors": 20
+        },
+        "1992": {
+            "totalGlycans": 41,
+            "totalErrors": 19
+        },
+        "1993": {
+            "totalGlycans": 45,
+            "totalErrors": 12
+        },
+        "1994": {
+            "totalGlycans": 93,
+            "totalErrors": 34
+        },
+        "1995": {
+            "totalGlycans": 95,
+            "totalErrors": 21
+        },
+        "1996": {
+            "totalGlycans": 91,
+            "totalErrors": 18
+        },
+        "1997": {
+            "totalGlycans": 119,
+            "totalErrors": 30
+        },
+        "1998": {
+            "totalGlycans": 149,
+            "totalErrors": 38
+        },
+        "1999": {
+            "totalGlycans": 196,
+            "totalErrors": 75
+        },
+        "2000": {
+            "totalGlycans": 237,
+            "totalErrors": 100
+        },
+        "2001": {
+            "totalGlycans": 219,
+            "totalErrors": 57
+        },
+        "2002": {
+            "totalGlycans": 324,
+            "totalErrors": 112
+        },
+        "2003": {
+            "totalGlycans": 390,
+            "totalErrors": 133
+        },
+        "2004": {
+            "totalGlycans": 353,
+            "totalErrors": 115
+        },
+        "2005": {
+            "totalGlycans": 411,
+            "totalErrors": 154
+        },
+        "2006": {
+            "totalGlycans": 469,
+            "totalErrors": 164
+        },
+        "2007": {
+            "totalGlycans": 495,
+            "totalErrors": 139
+        },
+        "2008": {
+            "totalGlycans": 435,
+            "totalErrors": 115
+        },
+        "2009": {
+            "totalGlycans": 590,
+            "totalErrors": 173
+        },
+        "2010": {
+            "totalGlycans": 655,
+            "totalErrors": 132
+        },
+        "2011": {
+            "totalGlycans": 750,
+            "totalErrors": 138
+        },
+        "2012": {
+            "totalGlycans": 772,
+            "totalErrors": 119
+        },
+        "2013": {
+            "totalGlycans": 862,
+            "totalErrors": 128
+        },
+        "2014": {
+            "totalGlycans": 898,
+            "totalErrors": 163
+        },
+        "2015": {
+            "totalGlycans": 952,
+            "totalErrors": 129
+        },
+        "2016": {
+            "totalGlycans": 1026,
+            "totalErrors": 147
+        },
+        "2017": {
+            "totalGlycans": 1032,
+            "totalErrors": 143
+        },
+        "2018": {
+            "totalGlycans": 1007,
+            "totalErrors": 119
+        },
+        "2019": {
+            "totalGlycans": 1200,
+            "totalErrors": 187
+        },
+        "2020": {
+            "totalGlycans": 1461,
+            "totalErrors": 210
+        },
+        "2021": {
+            "totalGlycans": 1557,
+            "totalErrors": 227
+        },
+        "2022": {
+            "totalGlycans": 1549,
+            "totalErrors": 195
+        },
+        "2023": {
+            "totalGlycans": 498,
+            "totalErrors": 67
+        }
     }
 }
