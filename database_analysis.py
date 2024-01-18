@@ -8,15 +8,8 @@ import requests
 from bs4 import BeautifulSoup
 import gzip
 
-import Bio
-import Bio.PDB
-import Bio.SeqRecord
+import gemmi
 
-cwd = os.getcwd()
-#datadir = cwd + '/pdb'
-datadir = '/vault/privateer_database/pdb/'
-pdbdir = '/vault/pdb_mirror/data/structures/all/pdb/' # Up to date
-# pdbdir = '/vault/pdb/' #Old
 def file_paths(root_directory):
     """
     Function to find all the files in the database
@@ -48,55 +41,29 @@ def get_pdb_path(pdb_code: str) -> str:
 
     return unzipped_pdb
 
-def get_year_pdb_old_mirror(jsonfilepath, pdbdir):
-    """
-    Function to find the year the structure corresponding to a particular database entry was deposited
-    Version of function to run with up to date mirror /vault/pdb
-    Have to check if files are there as missing most recent ones.
-    """
+
+def get_year_pdb(jsonfilepath):
     jsonfilename = os.path.basename(jsonfilepath)
     pdbcode = jsonfilename.rpartition('.')[0]
-    # print('Looking for pdb file corresponding to ' + jsonfilepath)
-    pdbfilepath = pdbdir + 'pdb' + pdbcode + '.ent'
-    if os.path.isfile(pdbfilepath): #Checking if file exists
-        pdbheader = Bio.PDB.parse_pdb_header(pdbfilepath)
-        datestring = pdbheader['deposition_date']
-        dt = datetime.strptime(datestring, '%Y-%m-%d')
-        return int(dt.year)
-    else:
-        print('Failed to find corresponding pdb at ' + pdbfilepath)
-        return 123456789
+    try:
+        pdbfilepath = get_pdb_path(pdbcode)
+        #print(f'Looking for pdb at {pdbfilepath}')
+        st = gemmi.read_structure(pdbfilepath)
+        metadata = st.info
+        year = metadata['_pdbx_database_status.recvd_initial_deposition_date'].split('-')[0]
+    except:
+        try:
+            ciffilepath = f'/vault/pdb_mirror/data/structures/all/mmCIF/{pdbcode}.cif.gz'
+            print(f'Failed to find corresponding pdb to {pdbcode} looking for mmCIF at {ciffilepath}')
+            st = gemmi.read_structure(ciffilepath)
+            metadata = st.info
+            year = metadata['_pdbx_database_status.recvd_initial_deposition_date'].split('-')[0]
+        except:
+            print(f'Failed to find corresponding mmCIF to {pdbcode}')
+            year = 123456789
+    return int(year)
 
-def get_year_pdb(jsonfilepath, pdbdir):
-    """
-    Function to find the year the structure corresponding to a particular database entry was deposited
-    Version of function to run with up to date mirror /vault/pdb_mirror/data/structures/all/pdb
-    Can no longer check file existence as os doesn't like .gz files.
-    But doesn't currently work as Bio.PDB.parse_pdb_header also won't open so using the old mirror for now.
-    """
-    jsonfilename = os.path.basename(jsonfilepath)
-    pdbcode = jsonfilename.rpartition('.')[0]
-    # print('Looking for pdb file corresponding to ' + jsonfilepath)
-    pdbfilepath = get_pdb_path(pdbcode)
-    pdbheader = Bio.PDB.parse_pdb_header(pdbfilepath)
-    datestring = pdbheader['deposition_date']
-    dt = datetime.strptime(datestring, '%Y-%m-%d')
-    return int(dt.year)
-
-
-def get_res_pdb(jsonfilepath, pdbdir):
-    """
-    Function to find resolution of structure corresponding to particular database entry
-    """
-    jsonfilename = os.path.basename(jsonfilepath)
-    pdbcode = jsonfilename.rpartition('.')[0]
-    print('Looking for pdb file corresponding to ' + jsonfilepath)
-    pdbfilepath = pdbdir + 'pdb' + pdbcode + '.ent.gz'
-    pdbheader = Bio.PDB.parse_pdb_header(pdbfilepath)
-    res = pdbheader['resolution']
-    return res
-
-def save_csv(year_range, depositionsperyear, glycansperyear, nglycansperyear, oglycansperyear, cglycansperyear, sglycansperyear, ligandsperyear):
+def save_csv(year_range, depositionsperyear, glycansperyear, nglycansperyear, oglycansperyear, cglycansperyear, sglycansperyear, ligandsperyear, redo):
     assert(len(year_range) == len(depositionsperyear))
     assert(len(year_range) == len(glycansperyear))
     assert(len(year_range) == len(nglycansperyear))
@@ -111,7 +78,7 @@ def save_csv(year_range, depositionsperyear, glycansperyear, nglycansperyear, og
         for year, depo, total, n, o, c, s, l in zip(year_range, depositionsperyear, glycansperyear,nglycansperyear, oglycansperyear, cglycansperyear, sglycansperyear, ligandsperyear):
             output_file.write(f"{year},{depo},{total},{n},{o},{c},{s},{l}\n")
 
-def save_json(year_range, depositionsperyear, glycansperyear, nglycansperyear, oglycansperyear, cglycansperyear, sglycansperyear, ligandsperyear):
+def save_json(year_range, depositionsperyear, glycansperyear, nglycansperyear, oglycansperyear, cglycansperyear, sglycansperyear, ligandsperyear, redo):
     assert(len(year_range) == len(depositionsperyear))
     assert(len(year_range) == len(glycansperyear))
     assert(len(year_range) == len(nglycansperyear))
@@ -120,14 +87,17 @@ def save_json(year_range, depositionsperyear, glycansperyear, nglycansperyear, o
     assert(len(year_range) == len(cglycansperyear))
     assert(len(year_range) == len(ligandsperyear))
 
-    output_file = "glycosylation_per_year.json"
+    if redo:
+        output_file = "glycosylation_per_year_redo.json"
+    else:
+        output_file = "glycosylation_per_year.json"
     data = {}
     for year, depo, total, n, o, c, s, l in zip(year_range, depositionsperyear, glycansperyear,nglycansperyear, oglycansperyear, cglycansperyear, sglycansperyear, ligandsperyear):
         data[str(year)]={"totalDepositions": int(depo), "totalGlycans": int(total) ,"nGlycans": int(n), "oGlycans": int(o), "cGlycans": int(c), "sGlycans": int(s), "ligands": int(l)}
     with open(output_file, "w") as output_file: 
         json.dump(data, output_file)
 
-def glycans_per_year(databasedir, pdbdir):
+def glycans_per_year(databasedir):
     print('Analysing database at ' + databasedir)
     filepathlist = file_paths(databasedir)
     glycans = np.zeros(len(filepathlist))
@@ -139,7 +109,7 @@ def glycans_per_year(databasedir, pdbdir):
     years = np.zeros(len(filepathlist))
     for i in range(len(filepathlist)):
         jsonfile = filepathlist[i]
-        years[i] = get_year_pdb(jsonfile,pdbdir) 
+        years[i] = get_year_pdb(jsonfile) 
         with open(jsonfile, 'r') as f:
             data = json.load(f)
             glycandata = data['glycans']
@@ -160,7 +130,7 @@ def glycans_per_year(databasedir, pdbdir):
                 ligands[i] = 1
             if len(nglycan)>0 or len(oglycan)>0 or len(sglycan)>0 or len(cglycan)>0 or len(ligand)>0:
                 glycans[i] = 1
-    # years = np.delete(years, np.where(years == 123456789)[0])
+    years = np.delete(years, np.where(years == 123456789)[0])
     start = np.min(years)
     end = np.max(years)
     year_range = np.arange(start,end+1, dtype=np.intc)
@@ -199,16 +169,16 @@ def depositions_per_year():
             depositions.append(int(data[1]))    
     return years, depositions
 
-def plot_and_save_per_year_summary(databasedir,pdbdir):
-    year_range, glycansperyear, nglycansperyear, oglycansperyear, sglycansperyear, cglycansperyear, ligandsperyear = glycans_per_year(databasedir, pdbdir)
+def plot_and_save_per_year_summary(databasedir,redo):
+    year_range, glycansperyear, nglycansperyear, oglycansperyear, sglycansperyear, cglycansperyear, ligandsperyear = glycans_per_year(databasedir)
     years, depositions = depositions_per_year()
     deposperyear = np.zeros(len(year_range))
     for i in range(len(year_range)):
         for j in range(len(years)):
             if years[j] == year_range[i]:
                 deposperyear[i] = depositions[j]
-    # save_csv(year_range, deposperyear, glycansperyear, nglycansperyear, oglycansperyear, cglycansperyear, sglycansperyear, ligandsperyear)
-    save_json(year_range, deposperyear, glycansperyear, nglycansperyear, oglycansperyear, cglycansperyear, sglycansperyear, ligandsperyear)     
+    # save_csv(year_range, deposperyear, glycansperyear, nglycansperyear, oglycansperyear, cglycansperyear, sglycansperyear, ligandsperyear, redo)
+    save_json(year_range, deposperyear, glycansperyear, nglycansperyear, oglycansperyear, cglycansperyear, sglycansperyear, ligandsperyear, redo)     
     fig, ax1 = plt.subplots()
     ax2 = ax1.twinx()
     colour = 'tab:blue'
@@ -227,8 +197,17 @@ def plot_and_save_per_year_summary(databasedir,pdbdir):
     ax1.set_ylim(0,np.max(glycansperyear)+0.01*np.max(glycansperyear))
     ax1.legend()
     plt.tight_layout()
-    plt.savefig(cwd+'/glycosylated_per_year.png')
+    if redo:
+        plt.savefig('glycosylated_per_year_redo.png')
+    else:
+        plt.savefig('glycosylated_per_year.png')
     plt.close()  
     return
 
-plot_and_save_per_year_summary(datadir,pdbdir)
+if __name__ == "__main__":
+    redo = True
+    if redo:
+        datadir = '/vault/privateer_database/pdbredo/'
+    else:
+        datadir = '/vault/privateer_database/pdb/'
+    plot_and_save_per_year_summary(datadir, redo)
