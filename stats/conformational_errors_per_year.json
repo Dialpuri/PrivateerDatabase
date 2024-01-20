@@ -1,0 +1,338 @@
+{
+    "pdbredo": {
+        "1988": {
+            "totalChair": 0,
+            "totalNonChair": 4
+        },
+        "1989": {
+            "totalChair": 48,
+            "totalNonChair": 12
+        },
+        "1990": {
+            "totalChair": 1,
+            "totalNonChair": 0
+        },
+        "1991": {
+            "totalChair": 116,
+            "totalNonChair": 35
+        },
+        "1992": {
+            "totalChair": 41,
+            "totalNonChair": 12
+        },
+        "1993": {
+            "totalChair": 56,
+            "totalNonChair": 9
+        },
+        "1994": {
+            "totalChair": 105,
+            "totalNonChair": 35
+        },
+        "1995": {
+            "totalChair": 155,
+            "totalNonChair": 31
+        },
+        "1996": {
+            "totalChair": 272,
+            "totalNonChair": 66
+        },
+        "1997": {
+            "totalChair": 346,
+            "totalNonChair": 95
+        },
+        "1998": {
+            "totalChair": 374,
+            "totalNonChair": 115
+        },
+        "1999": {
+            "totalChair": 761,
+            "totalNonChair": 190
+        },
+        "2000": {
+            "totalChair": 710,
+            "totalNonChair": 233
+        },
+        "2001": {
+            "totalChair": 662,
+            "totalNonChair": 194
+        },
+        "2002": {
+            "totalChair": 960,
+            "totalNonChair": 307
+        },
+        "2003": {
+            "totalChair": 1256,
+            "totalNonChair": 421
+        },
+        "2004": {
+            "totalChair": 1098,
+            "totalNonChair": 453
+        },
+        "2005": {
+            "totalChair": 1616,
+            "totalNonChair": 612
+        },
+        "2006": {
+            "totalChair": 1890,
+            "totalNonChair": 752
+        },
+        "2007": {
+            "totalChair": 1750,
+            "totalNonChair": 663
+        },
+        "2008": {
+            "totalChair": 1810,
+            "totalNonChair": 732
+        },
+        "2009": {
+            "totalChair": 2427,
+            "totalNonChair": 1139
+        },
+        "2010": {
+            "totalChair": 2403,
+            "totalNonChair": 1025
+        },
+        "2011": {
+            "totalChair": 2795,
+            "totalNonChair": 1145
+        },
+        "2012": {
+            "totalChair": 3832,
+            "totalNonChair": 1299
+        },
+        "2013": {
+            "totalChair": 4371,
+            "totalNonChair": 1431
+        },
+        "2014": {
+            "totalChair": 4218,
+            "totalNonChair": 1399
+        },
+        "2015": {
+            "totalChair": 5041,
+            "totalNonChair": 1371
+        },
+        "2016": {
+            "totalChair": 5243,
+            "totalNonChair": 1389
+        },
+        "2017": {
+            "totalChair": 4902,
+            "totalNonChair": 1638
+        },
+        "2018": {
+            "totalChair": 5096,
+            "totalNonChair": 1351
+        },
+        "2019": {
+            "totalChair": 4933,
+            "totalNonChair": 1825
+        },
+        "2020": {
+            "totalChair": 4545,
+            "totalNonChair": 1502
+        },
+        "2021": {
+            "totalChair": 4067,
+            "totalNonChair": 1530
+        },
+        "2022": {
+            "totalChair": 3791,
+            "totalNonChair": 1291
+        },
+        "2023": {
+            "totalChair": 1025,
+            "totalNonChair": 315
+        }
+    },
+    "pdb": {
+        "1977": {
+            "totalChair": 28,
+            "totalNonChair": 0
+        },
+        "1978": {
+            "totalChair": 45,
+            "totalNonChair": 6
+        },
+        "1979": {
+            "totalChair": 3,
+            "totalNonChair": 0
+        },
+        "1980": {
+            "totalChair": 0,
+            "totalNonChair": 0
+        },
+        "1981": {
+            "totalChair": 27,
+            "totalNonChair": 0
+        },
+        "1982": {
+            "totalChair": 0,
+            "totalNonChair": 0
+        },
+        "1983": {
+            "totalChair": 0,
+            "totalNonChair": 0
+        },
+        "1984": {
+            "totalChair": 0,
+            "totalNonChair": 0
+        },
+        "1985": {
+            "totalChair": 0,
+            "totalNonChair": 0
+        },
+        "1986": {
+            "totalChair": 0,
+            "totalNonChair": 1
+        },
+        "1987": {
+            "totalChair": 0,
+            "totalNonChair": 0
+        },
+        "1988": {
+            "totalChair": 28,
+            "totalNonChair": 6
+        },
+        "1989": {
+            "totalChair": 87,
+            "totalNonChair": 17
+        },
+        "1990": {
+            "totalChair": 36,
+            "totalNonChair": 20
+        },
+        "1991": {
+            "totalChair": 252,
+            "totalNonChair": 82
+        },
+        "1992": {
+            "totalChair": 123,
+            "totalNonChair": 78
+        },
+        "1993": {
+            "totalChair": 164,
+            "totalNonChair": 62
+        },
+        "1994": {
+            "totalChair": 375,
+            "totalNonChair": 206
+        },
+        "1995": {
+            "totalChair": 416,
+            "totalNonChair": 169
+        },
+        "1996": {
+            "totalChair": 466,
+            "totalNonChair": 125
+        },
+        "1997": {
+            "totalChair": 569,
+            "totalNonChair": 179
+        },
+        "1998": {
+            "totalChair": 602,
+            "totalNonChair": 103
+        },
+        "1999": {
+            "totalChair": 1254,
+            "totalNonChair": 243
+        },
+        "2000": {
+            "totalChair": 1162,
+            "totalNonChair": 354
+        },
+        "2001": {
+            "totalChair": 1226,
+            "totalNonChair": 230
+        },
+        "2002": {
+            "totalChair": 1608,
+            "totalNonChair": 379
+        },
+        "2003": {
+            "totalChair": 2054,
+            "totalNonChair": 422
+        },
+        "2004": {
+            "totalChair": 1610,
+            "totalNonChair": 555
+        },
+        "2005": {
+            "totalChair": 2022,
+            "totalNonChair": 675
+        },
+        "2006": {
+            "totalChair": 2552,
+            "totalNonChair": 899
+        },
+        "2007": {
+            "totalChair": 2222,
+            "totalNonChair": 709
+        },
+        "2008": {
+            "totalChair": 2110,
+            "totalNonChair": 744
+        },
+        "2009": {
+            "totalChair": 2975,
+            "totalNonChair": 1325
+        },
+        "2010": {
+            "totalChair": 2914,
+            "totalNonChair": 1142
+        },
+        "2011": {
+            "totalChair": 3544,
+            "totalNonChair": 1465
+        },
+        "2012": {
+            "totalChair": 5291,
+            "totalNonChair": 1430
+        },
+        "2013": {
+            "totalChair": 5714,
+            "totalNonChair": 1610
+        },
+        "2014": {
+            "totalChair": 5926,
+            "totalNonChair": 1807
+        },
+        "2015": {
+            "totalChair": 7150,
+            "totalNonChair": 1625
+        },
+        "2016": {
+            "totalChair": 7723,
+            "totalNonChair": 1580
+        },
+        "2017": {
+            "totalChair": 9048,
+            "totalNonChair": 1912
+        },
+        "2018": {
+            "totalChair": 11359,
+            "totalNonChair": 1807
+        },
+        "2019": {
+            "totalChair": 12293,
+            "totalNonChair": 2200
+        },
+        "2020": {
+            "totalChair": 21635,
+            "totalNonChair": 2181
+        },
+        "2021": {
+            "totalChair": 28771,
+            "totalNonChair": 2852
+        },
+        "2022": {
+            "totalChair": 27285,
+            "totalNonChair": 2623
+        },
+        "2023": {
+            "totalChair": 8279,
+            "totalNonChair": 800
+        }
+    }
+}
