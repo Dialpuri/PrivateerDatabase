@@ -153,7 +153,7 @@
             "totalGlycans": 899
         },
         "2015": {
-            "totalErrors": 128,
+            "totalErrors": 127,
             "totalGlycans": 952
         },
         "2016": {
@@ -299,7 +299,7 @@
             "totalGlycans": 897
         },
         "2015": {
-            "totalErrors": 155,
+            "totalErrors": 154,
             "totalGlycans": 933
         },
         "2016": {
@@ -307,8 +307,8 @@
             "totalGlycans": 1001
         },
         "2017": {
-            "totalErrors": 169,
-            "totalGlycans": 990
+            "totalErrors": 171,
+            "totalGlycans": 991
         },
         "2018": {
             "totalErrors": 194,
@@ -319,7 +319,7 @@
             "totalGlycans": 1053
         },
         "2020": {
-            "totalErrors": 239,
+            "totalErrors": 238,
             "totalGlycans": 1043
         },
         "2021": {

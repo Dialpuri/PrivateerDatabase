@@ -93,7 +93,7 @@
             "totalGlycans": 685
         },
         "3.0": {
-            "totalErrors": 169,
+            "totalErrors": 168,
             "totalGlycans": 754
         },
         "3.1": {
@@ -483,7 +483,7 @@
             "totalGlycans": 470
         },
         "1.6": {
-            "totalErrors": 151,
+            "totalErrors": 150,
             "totalGlycans": 783
         },
         "1.7": {
@@ -519,7 +519,7 @@
             "totalGlycans": 849
         },
         "2.5": {
-            "totalErrors": 262,
+            "totalErrors": 263,
             "totalGlycans": 870
         },
         "2.6": {
@@ -563,7 +563,7 @@
             "totalGlycans": 170
         },
         "3.6": {
-            "totalErrors": 27,
+            "totalErrors": 26,
             "totalGlycans": 77
         },
         "3.7": {
@@ -671,8 +671,8 @@
             "totalGlycans": 1
         },
         "7.0": {
-            "totalErrors": 1,
-            "totalGlycans": 2
+            "totalErrors": 2,
+            "totalGlycans": 3
         },
         "7.1": {
             "totalErrors": 0,
