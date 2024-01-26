@@ -153,7 +153,7 @@
             "totalGlycans": 899
         },
         "2015": {
-            "totalErrors": 127,
+            "totalErrors": 129,
             "totalGlycans": 952
         },
         "2016": {
@@ -182,11 +182,11 @@
         },
         "2022": {
             "totalErrors": 196,
-            "totalGlycans": 1554
+            "totalGlycans": 1556
         },
         "2023": {
-            "totalErrors": 71,
-            "totalGlycans": 512
+            "totalErrors": 72,
+            "totalGlycans": 532
         }
     },
     "pdbredo": {
@@ -223,19 +223,19 @@
             "totalGlycans": 45
         },
         "1996": {
-            "totalErrors": 11,
+            "totalErrors": 12,
             "totalGlycans": 46
         },
         "1997": {
-            "totalErrors": 25,
+            "totalErrors": 30,
             "totalGlycans": 69
         },
         "1998": {
-            "totalErrors": 29,
+            "totalErrors": 28,
             "totalGlycans": 77
         },
         "1999": {
-            "totalErrors": 51,
+            "totalErrors": 52,
             "totalGlycans": 121
         },
         "2000": {
@@ -251,15 +251,15 @@
             "totalGlycans": 233
         },
         "2003": {
-            "totalErrors": 97,
-            "totalGlycans": 326
+            "totalErrors": 114,
+            "totalGlycans": 327
         },
         "2004": {
-            "totalErrors": 60,
-            "totalGlycans": 299
+            "totalErrors": 88,
+            "totalGlycans": 302
         },
         "2005": {
-            "totalErrors": 114,
+            "totalErrors": 115,
             "totalGlycans": 362
         },
         "2006": {
@@ -267,72 +267,72 @@
             "totalGlycans": 412
         },
         "2007": {
-            "totalErrors": 140,
-            "totalGlycans": 460
+            "totalErrors": 153,
+            "totalGlycans": 462
         },
         "2008": {
-            "totalErrors": 127,
-            "totalGlycans": 439
+            "totalErrors": 135,
+            "totalGlycans": 440
         },
         "2009": {
-            "totalErrors": 195,
-            "totalGlycans": 592
+            "totalErrors": 220,
+            "totalGlycans": 596
         },
         "2010": {
             "totalErrors": 156,
-            "totalGlycans": 669
+            "totalGlycans": 670
         },
         "2011": {
-            "totalErrors": 122,
-            "totalGlycans": 733
+            "totalErrors": 140,
+            "totalGlycans": 738
         },
         "2012": {
-            "totalErrors": 205,
+            "totalErrors": 213,
             "totalGlycans": 774
         },
         "2013": {
-            "totalErrors": 237,
-            "totalGlycans": 852
+            "totalErrors": 269,
+            "totalGlycans": 857
         },
         "2014": {
-            "totalErrors": 215,
-            "totalGlycans": 897
+            "totalErrors": 250,
+            "totalGlycans": 910
         },
         "2015": {
-            "totalErrors": 154,
-            "totalGlycans": 933
+            "totalErrors": 242,
+            "totalGlycans": 947
         },
         "2016": {
-            "totalErrors": 165,
-            "totalGlycans": 1001
+            "totalErrors": 255,
+            "totalGlycans": 1024
         },
         "2017": {
-            "totalErrors": 171,
-            "totalGlycans": 991
+            "totalErrors": 231,
+            "totalGlycans": 1010
         },
         "2018": {
-            "totalErrors": 194,
+            "totalErrors": 210,
             "totalGlycans": 893
         },
         "2019": {
-            "totalErrors": 234,
-            "totalGlycans": 1053
+            "totalErrors": 274,
+            "totalGlycans": 1057
         },
         "2020": {
-            "totalErrors": 238,
-            "totalGlycans": 1043
+            "totalErrors": 265,
+            "totalGlycans": 1048
         },
         "2021": {
-            "totalErrors": 242,
-            "totalGlycans": 893
+            "totalErrors": 267,
+            "totalGlycans": 902
         },
         "2022": {
-            "totalErrors": 211,
-            "totalGlycans": 603
+            "totalErrors": 272,
+            "totalGlycans": 704
         },
         "2023": {
-            "totalErrors": 41,
-            "totalGlycans": 144
+            "totalErrors": 55,
+            "totalGlycans": 194
         }
     }
 }

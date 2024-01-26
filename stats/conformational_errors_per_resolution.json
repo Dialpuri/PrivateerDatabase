@@ -17,27 +17,27 @@
             "totalNonChair": 37
         },
         "1.1": {
-            "totalChair": 465,
-            "totalNonChair": 144
+            "totalChair": 472,
+            "totalNonChair": 145
         },
         "1.2": {
-            "totalChair": 595,
-            "totalNonChair": 97
+            "totalChair": 605,
+            "totalNonChair": 107
         },
         "1.3": {
-            "totalChair": 638,
-            "totalNonChair": 165
+            "totalChair": 642,
+            "totalNonChair": 169
         },
         "1.4": {
-            "totalChair": 1729,
-            "totalNonChair": 383
+            "totalChair": 1732,
+            "totalNonChair": 386
         },
         "1.5": {
-            "totalChair": 1880,
-            "totalNonChair": 463
+            "totalChair": 1889,
+            "totalNonChair": 465
         },
         "1.6": {
-            "totalChair": 3463,
+            "totalChair": 3466,
             "totalNonChair": 908
         },
         "1.7": {
@@ -57,7 +57,7 @@
             "totalNonChair": 1784
         },
         "2.1": {
-            "totalChair": 5301,
+            "totalChair": 5304,
             "totalNonChair": 1550
         },
         "2.2": {
@@ -73,8 +73,8 @@
             "totalNonChair": 1693
         },
         "2.5": {
-            "totalChair": 7695,
-            "totalNonChair": 1930
+            "totalChair": 7782,
+            "totalNonChair": 1937
         },
         "2.6": {
             "totalChair": 6210,
@@ -85,32 +85,32 @@
             "totalNonChair": 1521
         },
         "2.8": {
-            "totalChair": 8766,
-            "totalNonChair": 1778
+            "totalChair": 8839,
+            "totalNonChair": 1785
         },
         "2.9": {
-            "totalChair": 7931,
-            "totalNonChair": 1464
+            "totalChair": 7936,
+            "totalNonChair": 1467
         },
         "3.0": {
-            "totalChair": 9866,
-            "totalNonChair": 1630
+            "totalChair": 9859,
+            "totalNonChair": 1626
         },
         "3.1": {
-            "totalChair": 7957,
-            "totalNonChair": 1117
+            "totalChair": 7966,
+            "totalNonChair": 1121
         },
         "3.2": {
-            "totalChair": 8082,
-            "totalNonChair": 1240
+            "totalChair": 8105,
+            "totalNonChair": 1245
         },
         "3.3": {
             "totalChair": 7033,
             "totalNonChair": 701
         },
         "3.4": {
-            "totalChair": 7554,
-            "totalNonChair": 863
+            "totalChair": 7600,
+            "totalNonChair": 864
         },
         "3.5": {
             "totalChair": 9225,
@@ -455,152 +455,152 @@
             "totalNonChair": 1
         },
         "0.9": {
-            "totalChair": 98,
+            "totalChair": 99,
             "totalNonChair": 25
         },
         "1.0": {
-            "totalChair": 172,
-            "totalNonChair": 31
+            "totalChair": 175,
+            "totalNonChair": 32
         },
         "1.1": {
-            "totalChair": 441,
-            "totalNonChair": 145
+            "totalChair": 440,
+            "totalNonChair": 146
         },
         "1.2": {
-            "totalChair": 563,
-            "totalNonChair": 98
+            "totalChair": 574,
+            "totalNonChair": 99
         },
         "1.3": {
             "totalChair": 592,
-            "totalNonChair": 148
+            "totalNonChair": 149
         },
         "1.4": {
-            "totalChair": 1609,
-            "totalNonChair": 352
+            "totalChair": 1641,
+            "totalNonChair": 343
         },
         "1.5": {
-            "totalChair": 1592,
-            "totalNonChair": 425
+            "totalChair": 1632,
+            "totalNonChair": 421
         },
         "1.6": {
-            "totalChair": 3002,
-            "totalNonChair": 855
+            "totalChair": 3057,
+            "totalNonChair": 862
         },
         "1.7": {
-            "totalChair": 2736,
-            "totalNonChair": 677
+            "totalChair": 2823,
+            "totalNonChair": 686
         },
         "1.8": {
-            "totalChair": 4702,
-            "totalNonChair": 1228
+            "totalChair": 5076,
+            "totalNonChair": 1302
         },
         "1.9": {
-            "totalChair": 5827,
-            "totalNonChair": 1630
+            "totalChair": 6104,
+            "totalNonChair": 1731
         },
         "2.0": {
-            "totalChair": 5225,
-            "totalNonChair": 1589
+            "totalChair": 5283,
+            "totalNonChair": 1622
         },
         "2.1": {
-            "totalChair": 4211,
-            "totalNonChair": 1318
+            "totalChair": 4397,
+            "totalNonChair": 1373
         },
         "2.2": {
-            "totalChair": 4057,
-            "totalNonChair": 1291
+            "totalChair": 4301,
+            "totalNonChair": 1337
         },
         "2.3": {
-            "totalChair": 3546,
-            "totalNonChair": 1137
+            "totalChair": 3776,
+            "totalNonChair": 1240
         },
         "2.4": {
-            "totalChair": 4181,
-            "totalNonChair": 1486
+            "totalChair": 4346,
+            "totalNonChair": 1587
         },
         "2.5": {
-            "totalChair": 4248,
-            "totalNonChair": 1539
+            "totalChair": 4652,
+            "totalNonChair": 1649
         },
         "2.6": {
-            "totalChair": 3140,
-            "totalNonChair": 1106
+            "totalChair": 3283,
+            "totalNonChair": 1169
         },
         "2.7": {
-            "totalChair": 2999,
-            "totalNonChair": 1135
+            "totalChair": 3129,
+            "totalNonChair": 1157
         },
         "2.8": {
-            "totalChair": 3518,
-            "totalNonChair": 1256
+            "totalChair": 3743,
+            "totalNonChair": 1370
         },
         "2.9": {
-            "totalChair": 2500,
-            "totalNonChair": 1039
+            "totalChair": 2700,
+            "totalNonChair": 1118
         },
         "3.0": {
-            "totalChair": 2730,
-            "totalNonChair": 1178
+            "totalChair": 2982,
+            "totalNonChair": 1286
         },
         "3.1": {
-            "totalChair": 1906,
-            "totalNonChair": 790
+            "totalChair": 2078,
+            "totalNonChair": 873
         },
         "3.2": {
-            "totalChair": 1445,
-            "totalNonChair": 679
+            "totalChair": 1514,
+            "totalNonChair": 720
         },
         "3.3": {
-            "totalChair": 923,
-            "totalNonChair": 402
+            "totalChair": 943,
+            "totalNonChair": 406
         },
         "3.4": {
-            "totalChair": 776,
-            "totalNonChair": 415
+            "totalChair": 804,
+            "totalNonChair": 421
         },
         "3.5": {
-            "totalChair": 1341,
-            "totalNonChair": 641
+            "totalChair": 1383,
+            "totalNonChair": 645
         },
         "3.6": {
-            "totalChair": 491,
-            "totalNonChair": 299
+            "totalChair": 569,
+            "totalNonChair": 335
         },
         "3.7": {
-            "totalChair": 190,
-            "totalNonChair": 83
+            "totalChair": 215,
+            "totalNonChair": 88
         },
         "3.8": {
-            "totalChair": 403,
-            "totalNonChair": 157
+            "totalChair": 467,
+            "totalNonChair": 170
         },
         "3.9": {
-            "totalChair": 267,
-            "totalNonChair": 139
+            "totalChair": 312,
+            "totalNonChair": 167
         },
         "4.0": {
-            "totalChair": 394,
-            "totalNonChair": 229
+            "totalChair": 445,
+            "totalNonChair": 246
         },
         "4.1": {
-            "totalChair": 258,
-            "totalNonChair": 96
+            "totalChair": 253,
+            "totalNonChair": 101
         },
         "4.2": {
-            "totalChair": 240,
+            "totalChair": 241,
             "totalNonChair": 119
         },
         "4.3": {
-            "totalChair": 193,
-            "totalNonChair": 74
+            "totalChair": 198,
+            "totalNonChair": 76
         },
         "4.4": {
-            "totalChair": 77,
+            "totalChair": 83,
             "totalNonChair": 52
         },
         "4.5": {
-            "totalChair": 113,
-            "totalNonChair": 46
+            "totalChair": 132,
+            "totalNonChair": 45
         },
         "4.6": {
             "totalChair": 142,
@@ -619,12 +619,12 @@
             "totalNonChair": 3
         },
         "5.1": {
-            "totalChair": 7,
-            "totalNonChair": 27
+            "totalChair": 10,
+            "totalNonChair": 24
         },
         "5.2": {
-            "totalChair": 3,
-            "totalNonChair": 8
+            "totalChair": 9,
+            "totalNonChair": 2
         },
         "5.5": {
             "totalChair": 3,
@@ -643,8 +643,8 @@
             "totalNonChair": 2
         },
         "6.0": {
-            "totalChair": 32,
-            "totalNonChair": 49
+            "totalChair": 103,
+            "totalNonChair": 57
         },
         "6.2": {
             "totalChair": 0,
@@ -655,8 +655,8 @@
             "totalNonChair": 6
         },
         "6.5": {
-            "totalChair": 56,
-            "totalNonChair": 13
+            "totalChair": 79,
+            "totalNonChair": 12
         },
         "6.6": {
             "totalChair": 19,

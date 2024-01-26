@@ -181,12 +181,12 @@
             "totalNonChair": 2852
         },
         "2022": {
-            "totalChair": 27285,
-            "totalNonChair": 2623
+            "totalChair": 27297,
+            "totalNonChair": 2627
         },
         "2023": {
-            "totalChair": 8279,
-            "totalNonChair": 800
+            "totalChair": 8554,
+            "totalNonChair": 843
         }
     },
     "pdbredo": {
@@ -223,20 +223,20 @@
             "totalNonChair": 31
         },
         "1996": {
-            "totalChair": 272,
-            "totalNonChair": 66
+            "totalChair": 270,
+            "totalNonChair": 68
         },
         "1997": {
-            "totalChair": 346,
-            "totalNonChair": 95
+            "totalChair": 336,
+            "totalNonChair": 109
         },
         "1998": {
             "totalChair": 374,
-            "totalNonChair": 115
+            "totalNonChair": 114
         },
         "1999": {
-            "totalChair": 761,
-            "totalNonChair": 190
+            "totalChair": 762,
+            "totalNonChair": 188
         },
         "2000": {
             "totalChair": 710,
@@ -251,88 +251,88 @@
             "totalNonChair": 307
         },
         "2003": {
-            "totalChair": 1256,
-            "totalNonChair": 421
+            "totalChair": 1261,
+            "totalNonChair": 416
         },
         "2004": {
-            "totalChair": 1098,
-            "totalNonChair": 453
+            "totalChair": 1191,
+            "totalNonChair": 517
         },
         "2005": {
-            "totalChair": 1616,
-            "totalNonChair": 612
+            "totalChair": 1639,
+            "totalNonChair": 622
         },
         "2006": {
             "totalChair": 1890,
             "totalNonChair": 752
         },
         "2007": {
-            "totalChair": 1750,
-            "totalNonChair": 663
+            "totalChair": 1778,
+            "totalNonChair": 672
         },
         "2008": {
-            "totalChair": 1810,
-            "totalNonChair": 732
+            "totalChair": 1796,
+            "totalNonChair": 748
         },
         "2009": {
-            "totalChair": 2427,
-            "totalNonChair": 1139
+            "totalChair": 2506,
+            "totalNonChair": 1177
         },
         "2010": {
             "totalChair": 2403,
-            "totalNonChair": 1025
+            "totalNonChair": 1026
         },
         "2011": {
-            "totalChair": 2795,
-            "totalNonChair": 1145
+            "totalChair": 2863,
+            "totalNonChair": 1203
         },
         "2012": {
-            "totalChair": 3832,
-            "totalNonChair": 1299
+            "totalChair": 3900,
+            "totalNonChair": 1311
         },
         "2013": {
-            "totalChair": 4371,
-            "totalNonChair": 1431
+            "totalChair": 4511,
+            "totalNonChair": 1515
         },
         "2014": {
-            "totalChair": 4218,
-            "totalNonChair": 1399
+            "totalChair": 4636,
+            "totalNonChair": 1542
         },
         "2015": {
-            "totalChair": 5041,
-            "totalNonChair": 1371
+            "totalChair": 5463,
+            "totalNonChair": 1518
         },
         "2016": {
-            "totalChair": 5243,
-            "totalNonChair": 1389
+            "totalChair": 5752,
+            "totalNonChair": 1545
         },
         "2017": {
-            "totalChair": 5033,
-            "totalNonChair": 1675
+            "totalChair": 5554,
+            "totalNonChair": 1791
         },
         "2018": {
-            "totalChair": 5096,
-            "totalNonChair": 1351
+            "totalChair": 5121,
+            "totalNonChair": 1366
         },
         "2019": {
-            "totalChair": 4933,
-            "totalNonChair": 1825
+            "totalChair": 5215,
+            "totalNonChair": 1883
         },
         "2020": {
-            "totalChair": 4545,
-            "totalNonChair": 1502
+            "totalChair": 4727,
+            "totalNonChair": 1541
         },
         "2021": {
-            "totalChair": 4067,
-            "totalNonChair": 1530
+            "totalChair": 4246,
+            "totalNonChair": 1514
         },
         "2022": {
-            "totalChair": 3791,
-            "totalNonChair": 1291
+            "totalChair": 4520,
+            "totalNonChair": 1499
         },
         "2023": {
-            "totalChair": 1025,
-            "totalNonChair": 315
+            "totalChair": 1194,
+            "totalNonChair": 429
         }
     }
 }

@@ -407,19 +407,19 @@
     "2022": {
         "cGlycans": 4,
         "ligands": 403,
-        "nGlycans": 1267,
+        "nGlycans": 1269,
         "oGlycans": 27,
         "sGlycans": 5,
         "totalDepositions": 14270,
-        "totalGlycans": 1554
+        "totalGlycans": 1556
     },
     "2023": {
         "cGlycans": 1,
-        "ligands": 177,
-        "nGlycans": 372,
+        "ligands": 188,
+        "nGlycans": 383,
         "oGlycans": 10,
         "sGlycans": 2,
         "totalDepositions": 14487,
-        "totalGlycans": 512
+        "totalGlycans": 532
     }
 }
