@@ -17,5 +17,5 @@ We welcome contributions and suggestions to improve the quality of the database 
 
 ## Questions?
 
-If you have any questions, feel free to reach out to me via email - jsd523 at york.ac.uk
+If you have any questions, feel free to reach out to me via email - jordan.dialpuri at york.ac.uk
 
