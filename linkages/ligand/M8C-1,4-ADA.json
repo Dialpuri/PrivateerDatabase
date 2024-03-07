@@ -1,0 +1,38 @@
+[
+    {
+        "count": 2,
+        "pdb": "2ntq",
+        "resolution": 1.8,
+        "year": 2006
+    },
+    {
+        "count": 1,
+        "pdb": "2ntp",
+        "resolution": 1.7,
+        "year": 2006
+    },
+    {
+        "count": 2,
+        "pdb": "2nt6",
+        "resolution": 1.7,
+        "year": 2006
+    },
+    {
+        "count": 2,
+        "pdb": "2nt9",
+        "resolution": 1.9,
+        "year": 2006
+    },
+    {
+        "count": 2,
+        "pdb": "2nsp",
+        "resolution": 1.7,
+        "year": 2006
+    },
+    {
+        "count": 2,
+        "pdb": "2nst",
+        "resolution": 1.7,
+        "year": 2006
+    }
+]

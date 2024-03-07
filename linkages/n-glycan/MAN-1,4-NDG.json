@@ -1,0 +1,122 @@
+[
+    {
+        "count": 1,
+        "pdb": "1ozn",
+        "resolution": 1.52,
+        "year": 2003
+    },
+    {
+        "count": 1,
+        "pdb": "1zl1",
+        "resolution": 3.5,
+        "year": 2005
+    },
+    {
+        "count": 4,
+        "pdb": "1xfd",
+        "resolution": 3.0,
+        "year": 2004
+    },
+    {
+        "count": 1,
+        "pdb": "1fl7",
+        "resolution": 3.0,
+        "year": 2000
+    },
+    {
+        "count": 1,
+        "pdb": "1fzd",
+        "resolution": 2.1,
+        "year": 1998
+    },
+    {
+        "count": 1,
+        "pdb": "2fa7",
+        "resolution": 2.38,
+        "year": 2005
+    },
+    {
+        "count": 1,
+        "pdb": "1tkr",
+        "resolution": 2.7,
+        "year": 2004
+    },
+    {
+        "count": 1,
+        "pdb": "1tk3",
+        "resolution": 2.0,
+        "year": 2004
+    },
+    {
+        "count": 2,
+        "pdb": "2ri9",
+        "resolution": 1.95,
+        "year": 2007
+    },
+    {
+        "count": 1,
+        "pdb": "2doj",
+        "resolution": 2.4,
+        "year": 2006
+    },
+    {
+        "count": 1,
+        "pdb": "1u8e",
+        "resolution": 2.2,
+        "year": 2004
+    },
+    {
+        "count": 1,
+        "pdb": "3cig",
+        "resolution": 2.66,
+        "year": 2008
+    },
+    {
+        "count": 1,
+        "pdb": "3ciy",
+        "resolution": 3.41,
+        "year": 2008
+    },
+    {
+        "count": 1,
+        "pdb": "2z7x",
+        "resolution": 2.1,
+        "year": 2007
+    },
+    {
+        "count": 1,
+        "pdb": "1zu8",
+        "resolution": 3.05,
+        "year": 2005
+    },
+    {
+        "count": 1,
+        "pdb": "1n1m",
+        "resolution": 2.5,
+        "year": 2002
+    },
+    {
+        "count": 4,
+        "pdb": "2ifg",
+        "resolution": 3.4,
+        "year": 2006
+    },
+    {
+        "count": 1,
+        "pdb": "3iaz",
+        "resolution": 2.0,
+        "year": 2009
+    },
+    {
+        "count": 1,
+        "pdb": "3k24",
+        "resolution": 2.5,
+        "year": 2009
+    },
+    {
+        "count": 1,
+        "pdb": "3c6e",
+        "resolution": 2.6,
+        "year": 2008
+    }
+]

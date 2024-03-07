@@ -1,0 +1,224 @@
+[
+    {
+        "count": 4,
+        "pdb": "1dzq",
+        "resolution": 2.85,
+        "year": 2000
+    },
+    {
+        "count": 1,
+        "pdb": "1ay2",
+        "resolution": 2.6,
+        "year": 1997
+    },
+    {
+        "count": 4,
+        "pdb": "4ay5",
+        "resolution": 3.15,
+        "year": 2012
+    },
+    {
+        "count": 3,
+        "pdb": "7lua",
+        "resolution": 4.7,
+        "year": 2021
+    },
+    {
+        "count": 3,
+        "pdb": "7ec3",
+        "resolution": 2.5,
+        "year": 2021
+    },
+    {
+        "count": 4,
+        "pdb": "1qnw",
+        "resolution": 2.35,
+        "year": 1999
+    },
+    {
+        "count": 1,
+        "pdb": "1qlf",
+        "resolution": 2.65,
+        "year": 1999
+    },
+    {
+        "count": 2,
+        "pdb": "7cwt",
+        "resolution": 3.7,
+        "year": 2020
+    },
+    {
+        "count": 4,
+        "pdb": "7t86",
+        "resolution": 1.9,
+        "year": 2021
+    },
+    {
+        "count": 6,
+        "pdb": "8gf7",
+        "resolution": 4.8,
+        "year": 2023
+    },
+    {
+        "count": 4,
+        "pdb": "5un8",
+        "resolution": 2.13,
+        "year": 2017
+    },
+    {
+        "count": 2,
+        "pdb": "5diy",
+        "resolution": 2.06,
+        "year": 2015
+    },
+    {
+        "count": 2,
+        "pdb": "5hgv",
+        "resolution": 2.05,
+        "year": 2016
+    },
+    {
+        "count": 3,
+        "pdb": "7l6o",
+        "resolution": 3.9,
+        "year": 2020
+    },
+    {
+        "count": 1,
+        "pdb": "2ydq",
+        "resolution": 2.6,
+        "year": 2011
+    },
+    {
+        "count": 1,
+        "pdb": "2ydr",
+        "resolution": 2.75,
+        "year": 2011
+    },
+    {
+        "count": 1,
+        "pdb": "2yds",
+        "resolution": 2.55,
+        "year": 2011
+    },
+    {
+        "count": 1,
+        "pdb": "7wgb",
+        "resolution": 3.5,
+        "year": 2021
+    },
+    {
+        "count": 2,
+        "pdb": "4gyw",
+        "resolution": 1.7,
+        "year": 2012
+    },
+    {
+        "count": 1,
+        "pdb": "2pil",
+        "resolution": 2.6,
+        "year": 1998
+    },
+    {
+        "count": 2,
+        "pdb": "6bzd",
+        "resolution": 2.67,
+        "year": 2017
+    },
+    {
+        "count": 4,
+        "pdb": "1qot",
+        "resolution": 3.0,
+        "year": 1999
+    },
+    {
+        "count": 4,
+        "pdb": "1qoo",
+        "resolution": 2.75,
+        "year": 1999
+    },
+    {
+        "count": 1,
+        "pdb": "1qos",
+        "resolution": 2.95,
+        "year": 1999
+    },
+    {
+        "count": 1,
+        "pdb": "2rhp",
+        "resolution": 2.9,
+        "year": 2007
+    },
+    {
+        "count": 1,
+        "pdb": "2kuy",
+        "resolution": "N/A",
+        "year": 2010
+    },
+    {
+        "count": 2,
+        "pdb": "5vvu",
+        "resolution": 2.7,
+        "year": 2017
+    },
+    {
+        "count": 2,
+        "pdb": "5vvv",
+        "resolution": 2.8,
+        "year": 2017
+    },
+    {
+        "count": 2,
+        "pdb": "7sd3",
+        "resolution": 3.67,
+        "year": 2021
+    },
+    {
+        "count": 3,
+        "pdb": "5lvv",
+        "resolution": 2.54,
+        "year": 2016
+    },
+    {
+        "count": 1,
+        "pdb": "1yo8",
+        "resolution": 2.6,
+        "year": 2005
+    },
+    {
+        "count": 1,
+        "pdb": "2mvi",
+        "resolution": "N/A",
+        "year": 2014
+    },
+    {
+        "count": 3,
+        "pdb": "7sc5",
+        "resolution": 3.88,
+        "year": 2021
+    },
+    {
+        "count": 1,
+        "pdb": "7vhh",
+        "resolution": 3.8,
+        "year": 2021
+    },
+    {
+        "count": 3,
+        "pdb": "7vfl",
+        "resolution": 2.45,
+        "year": 2021
+    },
+    {
+        "count": 4,
+        "pdb": "6byk",
+        "resolution": 3.0,
+        "year": 2017
+    },
+    {
+        "count": 3,
+        "pdb": "6byj",
+        "resolution": 2.9,
+        "year": 2017
+    }
+]

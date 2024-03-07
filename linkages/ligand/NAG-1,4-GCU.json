@@ -1,0 +1,38 @@
+[
+    {
+        "count": 1,
+        "pdb": "1fcv",
+        "resolution": 2.65,
+        "year": 2000
+    },
+    {
+        "count": 1,
+        "pdb": "3hya",
+        "resolution": 3.0,
+        "year": 1977
+    },
+    {
+        "count": 1,
+        "pdb": "4hya",
+        "resolution": 3.0,
+        "year": 1977
+    },
+    {
+        "count": 1,
+        "pdb": "2hya",
+        "resolution": 3.0,
+        "year": 1977
+    },
+    {
+        "count": 1,
+        "pdb": "1hya",
+        "resolution": 3.0,
+        "year": 1977
+    },
+    {
+        "count": 2,
+        "pdb": "3e7j",
+        "resolution": 2.1,
+        "year": 2008
+    }
+]

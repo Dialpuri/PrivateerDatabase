@@ -1,0 +1,50 @@
+[
+    {
+        "count": 2,
+        "pdb": "5npk",
+        "resolution": 1.98,
+        "year": 2017
+    },
+    {
+        "count": 1,
+        "pdb": "7mib",
+        "resolution": 5.8,
+        "year": 2021
+    },
+    {
+        "count": 1,
+        "pdb": "7crq",
+        "resolution": 3.15,
+        "year": 2020
+    },
+    {
+        "count": 1,
+        "pdb": "8x1c",
+        "resolution": "N/A",
+        "year": 2023
+    },
+    {
+        "count": 1,
+        "pdb": "5m0r",
+        "resolution": 8.2,
+        "year": 2016
+    },
+    {
+        "count": 1,
+        "pdb": "1hap",
+        "resolution": 2.8,
+        "year": 1995
+    },
+    {
+        "count": 1,
+        "pdb": "7bwd",
+        "resolution": 4.32,
+        "year": 2020
+    },
+    {
+        "count": 1,
+        "pdb": "5iwi",
+        "resolution": 1.98,
+        "year": 2016
+    }
+]

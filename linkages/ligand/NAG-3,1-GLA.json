@@ -1,0 +1,26 @@
+[
+    {
+        "count": 1,
+        "pdb": "4xm3",
+        "resolution": 1.27,
+        "year": 2015
+    },
+    {
+        "count": 1,
+        "pdb": "4yej",
+        "resolution": 1.4,
+        "year": 2015
+    },
+    {
+        "count": 1,
+        "pdb": "4xkw",
+        "resolution": 1.45,
+        "year": 2015
+    },
+    {
+        "count": 1,
+        "pdb": "4xor",
+        "resolution": 1.5,
+        "year": 2015
+    }
+]

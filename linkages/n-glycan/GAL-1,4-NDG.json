@@ -1,0 +1,38 @@
+[
+    {
+        "count": 1,
+        "pdb": "3fru",
+        "resolution": 2.2,
+        "year": 1997
+    },
+    {
+        "count": 1,
+        "pdb": "1t83",
+        "resolution": 3.0,
+        "year": 2004
+    },
+    {
+        "count": 1,
+        "pdb": "1t89",
+        "resolution": 3.5,
+        "year": 2004
+    },
+    {
+        "count": 2,
+        "pdb": "5y56",
+        "resolution": 2.65,
+        "year": 2017
+    },
+    {
+        "count": 1,
+        "pdb": "6p3s",
+        "resolution": 4.0,
+        "year": 2019
+    },
+    {
+        "count": 1,
+        "pdb": "6p3r",
+        "resolution": 3.0,
+        "year": 2019
+    }
+]

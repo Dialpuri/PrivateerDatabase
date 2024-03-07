@@ -1,0 +1,38 @@
+[
+    {
+        "count": 1,
+        "pdb": "1gai",
+        "resolution": 1.7,
+        "year": 1996
+    },
+    {
+        "count": 1,
+        "pdb": "1gah",
+        "resolution": 2.0,
+        "year": 1996
+    },
+    {
+        "count": 1,
+        "pdb": "2ciy",
+        "resolution": 1.7,
+        "year": 2006
+    },
+    {
+        "count": 1,
+        "pdb": "2civ",
+        "resolution": 1.8,
+        "year": 2006
+    },
+    {
+        "count": 1,
+        "pdb": "2ciw",
+        "resolution": 1.15,
+        "year": 2006
+    },
+    {
+        "count": 1,
+        "pdb": "2ciz",
+        "resolution": 1.3,
+        "year": 2006
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "count": 1,
+        "pdb": "7khr",
+        "resolution": 3.62,
+        "year": 2020
+    },
+    {
+        "count": 1,
+        "pdb": "3v0w",
+        "resolution": 1.73,
+        "year": 2011
+    },
+    {
+        "count": 1,
+        "pdb": "1qjq",
+        "resolution": 2.95,
+        "year": 1999
+    },
+    {
+        "count": 1,
+        "pdb": "8agc",
+        "resolution": 3.1,
+        "year": 2022
+    },
+    {
+        "count": 1,
+        "pdb": "8agb",
+        "resolution": "N/A",
+        "year": 2022
+    },
+    {
+        "count": 1,
+        "pdb": "7wjf",
+        "resolution": 1.8,
+        "year": 2022
+    },
+    {
+        "count": 1,
+        "pdb": "1qkc",
+        "resolution": 3.1,
+        "year": 1999
+    },
+    {
+        "count": 1,
+        "pdb": "6wm2",
+        "resolution": 3.1,
+        "year": 2020
+    },
+    {
+        "count": 1,
+        "pdb": "1fi1",
+        "resolution": 2.9,
+        "year": 2000
+    },
+    {
+        "count": 1,
+        "pdb": "6wlw",
+        "resolution": 3.0,
+        "year": 2020
+    }
+]

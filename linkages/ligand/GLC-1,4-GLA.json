@@ -1,0 +1,122 @@
+[
+    {
+        "count": 1,
+        "pdb": "6g0x",
+        "resolution": 1.41,
+        "year": 2018
+    },
+    {
+        "count": 1,
+        "pdb": "4xn3",
+        "resolution": 1.65,
+        "year": 2015
+    },
+    {
+        "count": 1,
+        "pdb": "4xlf",
+        "resolution": 1.75,
+        "year": 2015
+    },
+    {
+        "count": 1,
+        "pdb": "4xla",
+        "resolution": 1.47,
+        "year": 2015
+    },
+    {
+        "count": 1,
+        "pdb": "4xle",
+        "resolution": 1.45,
+        "year": 2015
+    },
+    {
+        "count": 1,
+        "pdb": "4xm3",
+        "resolution": 1.27,
+        "year": 2015
+    },
+    {
+        "count": 1,
+        "pdb": "4yel",
+        "resolution": 1.72,
+        "year": 2015
+    },
+    {
+        "count": 1,
+        "pdb": "4yej",
+        "resolution": 1.4,
+        "year": 2015
+    },
+    {
+        "count": 1,
+        "pdb": "6gvr",
+        "resolution": 1.85,
+        "year": 2018
+    },
+    {
+        "count": 1,
+        "pdb": "6gvp",
+        "resolution": 1.71,
+        "year": 2018
+    },
+    {
+        "count": 1,
+        "pdb": "4xr6",
+        "resolution": 1.78,
+        "year": 2015
+    },
+    {
+        "count": 1,
+        "pdb": "4xkw",
+        "resolution": 1.45,
+        "year": 2015
+    },
+    {
+        "count": 1,
+        "pdb": "4xop",
+        "resolution": 1.59,
+        "year": 2015
+    },
+    {
+        "count": 1,
+        "pdb": "4xor",
+        "resolution": 1.5,
+        "year": 2015
+    },
+    {
+        "count": 1,
+        "pdb": "4xot",
+        "resolution": 1.06,
+        "year": 2015
+    },
+    {
+        "count": 1,
+        "pdb": "2x85",
+        "resolution": 1.5,
+        "year": 2010
+    },
+    {
+        "count": 1,
+        "pdb": "2x6w",
+        "resolution": 1.35,
+        "year": 2010
+    },
+    {
+        "count": 1,
+        "pdb": "2x6x",
+        "resolution": 1.48,
+        "year": 2010
+    },
+    {
+        "count": 1,
+        "pdb": "2x6y",
+        "resolution": 1.35,
+        "year": 2010
+    },
+    {
+        "count": 1,
+        "pdb": "1tyw",
+        "resolution": 1.8,
+        "year": 1996
+    }
+]

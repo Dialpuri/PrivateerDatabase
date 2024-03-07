@@ -1,0 +1,20 @@
+[
+    {
+        "count": 1,
+        "pdb": "2erm",
+        "resolution": "N/A",
+        "year": 2005
+    },
+    {
+        "count": 5,
+        "pdb": "4ndz",
+        "resolution": 3.45,
+        "year": 2013
+    },
+    {
+        "count": 2,
+        "pdb": "6i02",
+        "resolution": 2.45,
+        "year": 2018
+    }
+]

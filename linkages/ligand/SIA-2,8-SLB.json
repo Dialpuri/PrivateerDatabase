@@ -1,0 +1,32 @@
+[
+    {
+        "count": 1,
+        "pdb": "3gvl",
+        "resolution": 1.41,
+        "year": 2009
+    },
+    {
+        "count": 9,
+        "pdb": "3gvk",
+        "resolution": 1.84,
+        "year": 2009
+    },
+    {
+        "count": 2,
+        "pdb": "3gvj",
+        "resolution": 1.48,
+        "year": 2009
+    },
+    {
+        "count": 1,
+        "pdb": "1fv2",
+        "resolution": 2.5,
+        "year": 2000
+    },
+    {
+        "count": 2,
+        "pdb": "1fv3",
+        "resolution": 2.3,
+        "year": 2000
+    }
+]

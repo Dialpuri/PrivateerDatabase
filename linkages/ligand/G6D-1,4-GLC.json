@@ -1,0 +1,86 @@
+[
+    {
+        "count": 1,
+        "pdb": "1dtu",
+        "resolution": 2.4,
+        "year": 2000
+    },
+    {
+        "count": 2,
+        "pdb": "3oli",
+        "resolution": 1.5,
+        "year": 2010
+    },
+    {
+        "count": 1,
+        "pdb": "3old",
+        "resolution": 2.0,
+        "year": 2010
+    },
+    {
+        "count": 2,
+        "pdb": "3olg",
+        "resolution": 2.3,
+        "year": 2010
+    },
+    {
+        "count": 2,
+        "pdb": "3ole",
+        "resolution": 1.55,
+        "year": 2010
+    },
+    {
+        "count": 1,
+        "pdb": "3bmw",
+        "resolution": 1.6,
+        "year": 2007
+    },
+    {
+        "count": 1,
+        "pdb": "1b2y",
+        "resolution": 3.2,
+        "year": 1998
+    },
+    {
+        "count": 1,
+        "pdb": "1a47",
+        "resolution": 2.56,
+        "year": 1998
+    },
+    {
+        "count": 1,
+        "pdb": "2dij",
+        "resolution": 2.6,
+        "year": 1998
+    },
+    {
+        "count": 1,
+        "pdb": "3bc9",
+        "resolution": 1.35,
+        "year": 2007
+    },
+    {
+        "count": 1,
+        "pdb": "1ukq",
+        "resolution": 2.0,
+        "year": 2003
+    },
+    {
+        "count": 1,
+        "pdb": "2cxg",
+        "resolution": 2.5,
+        "year": 1998
+    },
+    {
+        "count": 1,
+        "pdb": "1kck",
+        "resolution": 2.43,
+        "year": 2001
+    },
+    {
+        "count": 1,
+        "pdb": "4e2o",
+        "resolution": 2.1,
+        "year": 2012
+    }
+]

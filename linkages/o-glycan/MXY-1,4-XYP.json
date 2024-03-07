@@ -1,0 +1,38 @@
+[
+    {
+        "count": 1,
+        "pdb": "1hmw",
+        "resolution": 2.3,
+        "year": 2000
+    },
+    {
+        "count": 1,
+        "pdb": "1hm2",
+        "resolution": 2.0,
+        "year": 2000
+    },
+    {
+        "count": 1,
+        "pdb": "1hm3",
+        "resolution": 2.1,
+        "year": 2000
+    },
+    {
+        "count": 1,
+        "pdb": "1hmu",
+        "resolution": 2.0,
+        "year": 2000
+    },
+    {
+        "count": 1,
+        "pdb": "1dbg",
+        "resolution": 1.7,
+        "year": 1999
+    },
+    {
+        "count": 1,
+        "pdb": "1dbo",
+        "resolution": 1.7,
+        "year": 1999
+    }
+]

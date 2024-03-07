@@ -1,0 +1,14 @@
+[
+    {
+        "count": 2,
+        "pdb": "1on8",
+        "resolution": 2.7,
+        "year": 2003
+    },
+    {
+        "count": 1,
+        "pdb": "1cap",
+        "resolution": 3.0,
+        "year": 1978
+    }
+]

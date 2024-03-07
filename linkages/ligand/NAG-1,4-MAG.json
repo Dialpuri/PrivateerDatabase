@@ -1,0 +1,26 @@
+[
+    {
+        "count": 1,
+        "pdb": "6fcu",
+        "resolution": 3.2,
+        "year": 2017
+    },
+    {
+        "count": 1,
+        "pdb": "6fcs",
+        "resolution": 2.9,
+        "year": 2017
+    },
+    {
+        "count": 2,
+        "pdb": "4bxd",
+        "resolution": 3.1,
+        "year": 2013
+    },
+    {
+        "count": 1,
+        "pdb": "2liq",
+        "resolution": "N/A",
+        "year": 2011
+    }
+]

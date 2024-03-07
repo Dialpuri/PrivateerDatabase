@@ -1,0 +1,86 @@
+[
+    {
+        "count": 1,
+        "pdb": "1dze",
+        "resolution": 2.5,
+        "year": 2000
+    },
+    {
+        "count": 1,
+        "pdb": "1ixf",
+        "resolution": 2.6,
+        "year": 2002
+    },
+    {
+        "count": 1,
+        "pdb": "1ucq",
+        "resolution": 2.4,
+        "year": 2003
+    },
+    {
+        "count": 1,
+        "pdb": "1qm8",
+        "resolution": 2.5,
+        "year": 1999
+    },
+    {
+        "count": 1,
+        "pdb": "3vi0",
+        "resolution": 2.3,
+        "year": 2011
+    },
+    {
+        "count": 1,
+        "pdb": "1x0s",
+        "resolution": 2.5,
+        "year": 2005
+    },
+    {
+        "count": 1,
+        "pdb": "1x0k",
+        "resolution": 2.6,
+        "year": 2005
+    },
+    {
+        "count": 1,
+        "pdb": "2zfe",
+        "resolution": 2.5,
+        "year": 2007
+    },
+    {
+        "count": 1,
+        "pdb": "1iw6",
+        "resolution": 2.3,
+        "year": 2002
+    },
+    {
+        "count": 1,
+        "pdb": "1iw9",
+        "resolution": 2.5,
+        "year": 2002
+    },
+    {
+        "count": 4,
+        "pdb": "2z55",
+        "resolution": 2.5,
+        "year": 2007
+    },
+    {
+        "count": 1,
+        "pdb": "2zzl",
+        "resolution": 2.03,
+        "year": 2009
+    },
+    {
+        "count": 1,
+        "pdb": "3vhz",
+        "resolution": 2.3,
+        "year": 2011
+    },
+    {
+        "count": 2,
+        "pdb": "1brr",
+        "resolution": 2.9,
+        "year": 1998
+    }
+]

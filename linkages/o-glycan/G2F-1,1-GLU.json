@@ -1,0 +1,74 @@
+[
+    {
+        "count": 2,
+        "pdb": "4ptw",
+        "resolution": 2.0,
+        "year": 2014
+    },
+    {
+        "count": 2,
+        "pdb": "3ptm",
+        "resolution": 2.4,
+        "year": 2010
+    },
+    {
+        "count": 1,
+        "pdb": "1exp",
+        "resolution": 1.8,
+        "year": 1996
+    },
+    {
+        "count": 2,
+        "pdb": "7kr6",
+        "resolution": "N/A",
+        "year": 2020
+    },
+    {
+        "count": 1,
+        "pdb": "1e73",
+        "resolution": 1.5,
+        "year": 2000
+    },
+    {
+        "count": 1,
+        "pdb": "2jie",
+        "resolution": 2.3,
+        "year": 2007
+    },
+    {
+        "count": 2,
+        "pdb": "6haa",
+        "resolution": 1.7,
+        "year": 2018
+    },
+    {
+        "count": 1,
+        "pdb": "2cit",
+        "resolution": 1.4,
+        "year": 2006
+    },
+    {
+        "count": 1,
+        "pdb": "1e0v",
+        "resolution": 1.7,
+        "year": 2000
+    },
+    {
+        "count": 1,
+        "pdb": "3aiw",
+        "resolution": 2.4,
+        "year": 2010
+    },
+    {
+        "count": 1,
+        "pdb": "3gnr",
+        "resolution": 1.81,
+        "year": 2009
+    },
+    {
+        "count": 1,
+        "pdb": "1uyq",
+        "resolution": 2.2,
+        "year": 2004
+    }
+]

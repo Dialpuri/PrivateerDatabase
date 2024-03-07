@@ -1,0 +1,32 @@
+[
+    {
+        "count": 1,
+        "pdb": "2xyl",
+        "resolution": 1.9,
+        "year": 1997
+    },
+    {
+        "count": 1,
+        "pdb": "3zse",
+        "resolution": 1.78,
+        "year": 2011
+    },
+    {
+        "count": 2,
+        "pdb": "1h4g",
+        "resolution": 1.1,
+        "year": 2001
+    },
+    {
+        "count": 2,
+        "pdb": "1qh6",
+        "resolution": 2.0,
+        "year": 1999
+    },
+    {
+        "count": 2,
+        "pdb": "1e0x",
+        "resolution": 1.65,
+        "year": 2000
+    }
+]

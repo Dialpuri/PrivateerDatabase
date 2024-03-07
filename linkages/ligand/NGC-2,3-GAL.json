@@ -1,0 +1,44 @@
+[
+    {
+        "count": 2,
+        "pdb": "7ee5",
+        "resolution": 1.24,
+        "year": 2021
+    },
+    {
+        "count": 1,
+        "pdb": "3sis",
+        "resolution": 2.2,
+        "year": 2011
+    },
+    {
+        "count": 4,
+        "pdb": "3dwq",
+        "resolution": 2.1,
+        "year": 2008
+    },
+    {
+        "count": 1,
+        "pdb": "6e7h",
+        "resolution": 3.3,
+        "year": 2018
+    },
+    {
+        "count": 10,
+        "pdb": "4pot",
+        "resolution": 2.1,
+        "year": 2014
+    },
+    {
+        "count": 3,
+        "pdb": "7t1v",
+        "resolution": 2.05,
+        "year": 2021
+    },
+    {
+        "count": 1,
+        "pdb": "6s2i",
+        "resolution": 2.29,
+        "year": 2019
+    }
+]

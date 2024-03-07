@@ -1,0 +1,26 @@
+[
+    {
+        "count": 1,
+        "pdb": "1r7u",
+        "resolution": 1.61,
+        "year": 2003
+    },
+    {
+        "count": 1,
+        "pdb": "1r7t",
+        "resolution": 2.09,
+        "year": 2003
+    },
+    {
+        "count": 2,
+        "pdb": "4c2s",
+        "resolution": 2.48,
+        "year": 2013
+    },
+    {
+        "count": 1,
+        "pdb": "1wt2",
+        "resolution": 1.9,
+        "year": 2004
+    }
+]

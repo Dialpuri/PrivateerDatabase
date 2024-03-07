@@ -1,0 +1,32 @@
+[
+    {
+        "count": 4,
+        "pdb": "5v2j",
+        "resolution": 1.8,
+        "year": 2017
+    },
+    {
+        "count": 4,
+        "pdb": "5v2k",
+        "resolution": 2.0,
+        "year": 2017
+    },
+    {
+        "count": 4,
+        "pdb": "5u6s",
+        "resolution": 2.0,
+        "year": 2016
+    },
+    {
+        "count": 2,
+        "pdb": "5u6m",
+        "resolution": 2.57,
+        "year": 2016
+    },
+    {
+        "count": 4,
+        "pdb": "5u6n",
+        "resolution": 2.0,
+        "year": 2016
+    }
+]

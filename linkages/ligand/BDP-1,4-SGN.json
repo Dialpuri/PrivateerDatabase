@@ -1,0 +1,32 @@
+[
+    {
+        "count": 2,
+        "pdb": "3uan",
+        "resolution": 1.84,
+        "year": 2011
+    },
+    {
+        "count": 1,
+        "pdb": "5e9b",
+        "resolution": 1.88,
+        "year": 2015
+    },
+    {
+        "count": 1,
+        "pdb": "6xkg",
+        "resolution": 1.55,
+        "year": 2020
+    },
+    {
+        "count": 1,
+        "pdb": "7sce",
+        "resolution": 2.75,
+        "year": 2021
+    },
+    {
+        "count": 1,
+        "pdb": "7scd",
+        "resolution": 2.9,
+        "year": 2021
+    }
+]
