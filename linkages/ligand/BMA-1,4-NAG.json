@@ -170,13 +170,13 @@
     {
         "count": 3,
         "pdb": "6mpg",
-        "resolution": "N/A",
+        "resolution": 3.2,
         "year": 2018
     },
     {
         "count": 15,
         "pdb": "6mph",
-        "resolution": "N/A",
+        "resolution": 3.8,
         "year": 2018
     },
     {
@@ -188,7 +188,7 @@
     {
         "count": 1,
         "pdb": "8dp1",
-        "resolution": "N/A",
+        "resolution": 3.46,
         "year": 2022
     },
     {
@@ -218,7 +218,7 @@
     {
         "count": 1,
         "pdb": "7unf",
-        "resolution": "N/A",
+        "resolution": 4.08,
         "year": 2022
     },
     {
@@ -380,7 +380,7 @@
     {
         "count": 3,
         "pdb": "7kip",
-        "resolution": "N/A",
+        "resolution": 3.39,
         "year": 2020
     },
     {
@@ -422,7 +422,7 @@
     {
         "count": 2,
         "pdb": "8dy6",
-        "resolution": "N/A",
+        "resolution": 4.32,
         "year": 2022
     },
     {
@@ -434,7 +434,7 @@
     {
         "count": 3,
         "pdb": "7t0z",
-        "resolution": "N/A",
+        "resolution": 3.0,
         "year": 2021
     },
     {
@@ -464,7 +464,7 @@
     {
         "count": 1,
         "pdb": "8agb",
-        "resolution": "N/A",
+        "resolution": 3.0,
         "year": 2022
     },
     {
@@ -692,7 +692,7 @@
     {
         "count": 2,
         "pdb": "8fyi",
-        "resolution": "N/A",
+        "resolution": 3.4,
         "year": 2023
     },
     {
@@ -896,7 +896,7 @@
     {
         "count": 1,
         "pdb": "7y6t",
-        "resolution": "N/A",
+        "resolution": 4.2,
         "year": 2022
     },
     {

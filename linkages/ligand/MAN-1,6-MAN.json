@@ -128,7 +128,7 @@
     {
         "count": 1,
         "pdb": "8dp1",
-        "resolution": "N/A",
+        "resolution": 3.46,
         "year": 2022
     },
     {
@@ -152,7 +152,7 @@
     {
         "count": 1,
         "pdb": "7unf",
-        "resolution": "N/A",
+        "resolution": 4.08,
         "year": 2022
     },
     {
@@ -320,7 +320,7 @@
     {
         "count": 1,
         "pdb": "7t0z",
-        "resolution": "N/A",
+        "resolution": 3.0,
         "year": 2021
     },
     {
@@ -398,19 +398,19 @@
     {
         "count": 1,
         "pdb": "6yju",
-        "resolution": "N/A",
+        "resolution": 1.96,
         "year": 2020
     },
     {
         "count": 1,
         "pdb": "6yjv",
-        "resolution": "N/A",
+        "resolution": 1.7,
         "year": 2020
     },
     {
         "count": 2,
         "pdb": "6yjs",
-        "resolution": "N/A",
+        "resolution": 1.6,
         "year": 2020
     },
     {

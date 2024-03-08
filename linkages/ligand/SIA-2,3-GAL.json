@@ -182,7 +182,7 @@
     {
         "count": 1,
         "pdb": "6zvm",
-        "resolution": "N/A",
+        "resolution": 1.8,
         "year": 2020
     },
     {
@@ -800,7 +800,7 @@
     {
         "count": 1,
         "pdb": "8agk",
-        "resolution": "N/A",
+        "resolution": 1.5,
         "year": 2022
     },
     {
@@ -848,7 +848,7 @@
     {
         "count": 4,
         "pdb": "7prs",
-        "resolution": "N/A",
+        "resolution": 2,
         "year": 2021
     },
     {
@@ -860,7 +860,7 @@
     {
         "count": 2,
         "pdb": "7ovw",
-        "resolution": "N/A",
+        "resolution": 2.2,
         "year": 2021
     },
     {
@@ -968,7 +968,7 @@
     {
         "count": 1,
         "pdb": "6thy",
-        "resolution": "N/A",
+        "resolution": 1.75,
         "year": 2019
     },
     {
@@ -1112,19 +1112,19 @@
     {
         "count": 2,
         "pdb": "7zim",
-        "resolution": "N/A",
+        "resolution": 1.55,
         "year": 2022
     },
     {
         "count": 3,
         "pdb": "7zil",
-        "resolution": "N/A",
+        "resolution": 1.24,
         "year": 2022
     },
     {
         "count": 1,
         "pdb": "7zip",
-        "resolution": "N/A",
+        "resolution": 1.9,
         "year": 2022
     },
     {
@@ -1256,7 +1256,7 @@
     {
         "count": 1,
         "pdb": "7z5s",
-        "resolution": "N/A",
+        "resolution": 2.1,
         "year": 2022
     },
     {
@@ -1328,13 +1328,13 @@
     {
         "count": 4,
         "pdb": "6y63",
-        "resolution": "N/A",
+        "resolution": 1.651,
         "year": 2020
     },
     {
         "count": 7,
         "pdb": "6y60",
-        "resolution": "N/A",
+        "resolution": 1.798,
         "year": 2020
     },
     {
@@ -1490,13 +1490,13 @@
     {
         "count": 1,
         "pdb": "7p1n",
-        "resolution": "N/A",
+        "resolution": 2.95,
         "year": 2021
     },
     {
         "count": 1,
         "pdb": "7p1p",
-        "resolution": "N/A",
+        "resolution": 3.03,
         "year": 2021
     },
     {

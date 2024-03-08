@@ -8,7 +8,7 @@
     {
         "count": 1,
         "pdb": "7oln",
-        "resolution": "N/A",
+        "resolution": 1.92,
         "year": 2021
     },
     {
@@ -338,7 +338,7 @@
     {
         "count": 3,
         "pdb": "7prs",
-        "resolution": "N/A",
+        "resolution": 2,
         "year": 2021
     },
     {
@@ -506,13 +506,13 @@
     {
         "count": 3,
         "pdb": "6t2s",
-        "resolution": "N/A",
+        "resolution": 3.3,
         "year": 2019
     },
     {
         "count": 2,
         "pdb": "6t2q",
-        "resolution": "N/A",
+        "resolution": 2,
         "year": 2019
     },
     {

@@ -188,7 +188,7 @@
     {
         "count": 2,
         "pdb": "7q20",
-        "resolution": "N/A",
+        "resolution": 1.95,
         "year": 2021
     },
     {
@@ -206,7 +206,7 @@
     {
         "count": 2,
         "pdb": "7q1w",
-        "resolution": "N/A",
+        "resolution": 1.65,
         "year": 2021
     }
 ]

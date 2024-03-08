@@ -38,7 +38,7 @@
     {
         "count": 1,
         "pdb": "8csj",
-        "resolution": "N/A",
+        "resolution": 3.53,
         "year": 2022
     },
     {
@@ -440,7 +440,7 @@
     {
         "count": 1,
         "pdb": "7pj5",
-        "resolution": "N/A",
+        "resolution": 1.55,
         "year": 2021
     },
     {
@@ -614,13 +614,13 @@
     {
         "count": 3,
         "pdb": "6mpg",
-        "resolution": "N/A",
+        "resolution": 3.2,
         "year": 2018
     },
     {
         "count": 24,
         "pdb": "6mph",
-        "resolution": "N/A",
+        "resolution": 3.8,
         "year": 2018
     },
     {
@@ -686,7 +686,7 @@
     {
         "count": 1,
         "pdb": "8dp1",
-        "resolution": "N/A",
+        "resolution": 3.46,
         "year": 2022
     },
     {
@@ -782,7 +782,7 @@
     {
         "count": 1,
         "pdb": "7unf",
-        "resolution": "N/A",
+        "resolution": 4.08,
         "year": 2022
     },
     {
@@ -1532,7 +1532,7 @@
     {
         "count": 2,
         "pdb": "8dy6",
-        "resolution": "N/A",
+        "resolution": 4.32,
         "year": 2022
     },
     {
@@ -1556,7 +1556,7 @@
     {
         "count": 6,
         "pdb": "7t0z",
-        "resolution": "N/A",
+        "resolution": 3.0,
         "year": 2021
     },
     {
@@ -2048,7 +2048,7 @@
     {
         "count": 6,
         "pdb": "7vu9",
-        "resolution": "N/A",
+        "resolution": 2.154,
         "year": 2021
     },
     {
@@ -2228,7 +2228,7 @@
     {
         "count": 1,
         "pdb": "7ybm",
-        "resolution": "N/A",
+        "resolution": 3.45,
         "year": 2022
     },
     {
@@ -2636,7 +2636,7 @@
     {
         "count": 3,
         "pdb": "6n1w",
-        "resolution": "N/A",
+        "resolution": 4.2,
         "year": 2018
     },
     {
@@ -2696,7 +2696,7 @@
     {
         "count": 7,
         "pdb": "4v7q",
-        "resolution": "N/A",
+        "resolution": 3.8,
         "year": 2010
     },
     {
@@ -2876,7 +2876,7 @@
     {
         "count": 2,
         "pdb": "8a94",
-        "resolution": "N/A",
+        "resolution": 2.4,
         "year": 2022
     },
     {
@@ -2888,13 +2888,13 @@
     {
         "count": 2,
         "pdb": "8a95",
-        "resolution": "N/A",
+        "resolution": 2.64,
         "year": 2022
     },
     {
         "count": 1,
         "pdb": "7y6t",
-        "resolution": "N/A",
+        "resolution": 4.2,
         "year": 2022
     },
     {

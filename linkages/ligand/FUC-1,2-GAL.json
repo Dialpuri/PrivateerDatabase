@@ -98,7 +98,7 @@
     {
         "count": 1,
         "pdb": "7oln",
-        "resolution": "N/A",
+        "resolution": 1.92,
         "year": 2021
     },
     {
@@ -680,13 +680,13 @@
     {
         "count": 1,
         "pdb": "6tid",
-        "resolution": "N/A",
+        "resolution": 1.614,
         "year": 2019
     },
     {
         "count": 3,
         "pdb": "6tig",
-        "resolution": "N/A",
+        "resolution": 1.9,
         "year": 2019
     },
     {
@@ -698,7 +698,7 @@
     {
         "count": 2,
         "pdb": "7q20",
-        "resolution": "N/A",
+        "resolution": 1.95,
         "year": 2021
     },
     {
@@ -722,13 +722,13 @@
     {
         "count": 6,
         "pdb": "6zu2",
-        "resolution": "N/A",
+        "resolution": 1.55,
         "year": 2020
     },
     {
         "count": 1,
         "pdb": "6yh0",
-        "resolution": "N/A",
+        "resolution": 1.56,
         "year": 2020
     },
     {
@@ -866,43 +866,43 @@
     {
         "count": 1,
         "pdb": "6tso",
-        "resolution": "N/A",
+        "resolution": 2.1,
         "year": 2019
     },
     {
         "count": 1,
         "pdb": "6tsq",
-        "resolution": "N/A",
+        "resolution": 1.85,
         "year": 2019
     },
     {
         "count": 2,
         "pdb": "6tsn",
-        "resolution": "N/A",
+        "resolution": 1.6,
         "year": 2019
     },
     {
         "count": 1,
         "pdb": "6tsm",
-        "resolution": "N/A",
+        "resolution": 1.4,
         "year": 2019
     },
     {
         "count": 1,
         "pdb": "6tsl",
-        "resolution": "N/A",
+        "resolution": 1.4,
         "year": 2019
     },
     {
         "count": 2,
         "pdb": "6tsp",
-        "resolution": "N/A",
+        "resolution": 1.85,
         "year": 2019
     },
     {
         "count": 1,
         "pdb": "6tsr",
-        "resolution": "N/A",
+        "resolution": 1.85,
         "year": 2019
     },
     {
@@ -938,7 +938,7 @@
     {
         "count": 2,
         "pdb": "7q1w",
-        "resolution": "N/A",
+        "resolution": 1.65,
         "year": 2021
     }
 ]

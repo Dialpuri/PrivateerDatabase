@@ -686,7 +686,7 @@
     {
         "count": 11,
         "pdb": "7sbq",
-        "resolution": "N/A",
+        "resolution": 3.5,
         "year": 2021
     },
     {
@@ -926,13 +926,13 @@
     {
         "count": 7,
         "pdb": "8an2",
-        "resolution": "N/A",
+        "resolution": 3.2,
         "year": 2022
     },
     {
         "count": 5,
         "pdb": "8an3",
-        "resolution": "N/A",
+        "resolution": 3.9,
         "year": 2022
     },
     {
@@ -1076,7 +1076,7 @@
     {
         "count": 12,
         "pdb": "7zcx",
-        "resolution": "N/A",
+        "resolution": 3.1,
         "year": 2022
     },
     {
@@ -1448,13 +1448,13 @@
     {
         "count": 1,
         "pdb": "6weu",
-        "resolution": "N/A",
+        "resolution": 2.65,
         "year": 2020
     },
     {
         "count": 1,
         "pdb": "6wev",
-        "resolution": "N/A",
+        "resolution": 2.9,
         "year": 2020
     },
     {
@@ -1826,7 +1826,7 @@
     {
         "count": 24,
         "pdb": "6xr8",
-        "resolution": "N/A",
+        "resolution": 2.9,
         "year": 2020
     },
     {
@@ -2282,7 +2282,7 @@
     {
         "count": 2,
         "pdb": "7yfi",
-        "resolution": "N/A",
+        "resolution": 3.3,
         "year": 2022
     },
     {
@@ -2342,7 +2342,7 @@
     {
         "count": 20,
         "pdb": "7ybm",
-        "resolution": "N/A",
+        "resolution": 3.45,
         "year": 2022
     },
     {
@@ -2384,7 +2384,7 @@
     {
         "count": 18,
         "pdb": "8d5a",
-        "resolution": "N/A",
+        "resolution": 3.1,
         "year": 2022
     },
     {
@@ -3212,7 +3212,7 @@
     {
         "count": 5,
         "pdb": "8gjm",
-        "resolution": "N/A",
+        "resolution": 2.8,
         "year": 2023
     },
     {

@@ -470,19 +470,19 @@
     {
         "count": 1,
         "pdb": "7ziq",
-        "resolution": "N/A",
+        "resolution": 1.9,
         "year": 2022
     },
     {
         "count": 2,
         "pdb": "7zio",
-        "resolution": "N/A",
+        "resolution": 1.751,
         "year": 2022
     },
     {
         "count": 2,
         "pdb": "7zin",
-        "resolution": "N/A",
+        "resolution": 1.648,
         "year": 2022
     },
     {
@@ -530,7 +530,7 @@
     {
         "count": 5,
         "pdb": "7b6u",
-        "resolution": "N/A",
+        "resolution": 1.901,
         "year": 2020
     },
     {
