@@ -1,38 +1,14 @@
 [
     {
-        "count": 1,
-        "pdb": "5aeg",
-        "resolution": 1.85,
-        "year": 2015
+        "count": 2,
+        "pdb": "6wg7",
+        "resolution": 8.3,
+        "year": 2020
     },
     {
         "count": 1,
-        "pdb": "5jov",
-        "resolution": 1.5,
-        "year": 2016
-    },
-    {
-        "count": 3,
-        "pdb": "4amw",
-        "resolution": 1.9,
-        "year": 2012
-    },
-    {
-        "count": 1,
-        "pdb": "3ij8",
-        "resolution": 1.43,
-        "year": 2009
-    },
-    {
-        "count": 1,
-        "pdb": "3ij7",
-        "resolution": 2.0,
-        "year": 2009
-    },
-    {
-        "count": 1,
-        "pdb": "3ij9",
-        "resolution": 1.85,
-        "year": 2009
+        "pdb": "1rb8",
+        "resolution": 3.5,
+        "year": 2003
     }
 ]

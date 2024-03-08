@@ -1,14 +1,8 @@
 [
     {
         "count": 1,
-        "pdb": "2mij",
-        "resolution": "N/A",
-        "year": 2013
-    },
-    {
-        "count": 1,
-        "pdb": "7qiy",
-        "resolution": 2.58,
-        "year": 2021
+        "pdb": "2noq",
+        "resolution": 7.3,
+        "year": 2006
     }
 ]

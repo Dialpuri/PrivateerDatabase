@@ -1,0 +1,124 @@
+{
+    "A2G-1,G-CYS": [
+        {
+            "count": 1,
+            "pdb": "5a2l",
+            "resolution": 1.79,
+            "year": 2015
+        },
+        {
+            "count": 1,
+            "pdb": "5ajn",
+            "resolution": 1.67,
+            "year": 2015
+        }
+    ],
+    "BGC-1,G-CYS": [
+        {
+            "count": 1,
+            "pdb": "2mij",
+            "resolution": "N/A",
+            "year": 2013
+        },
+        {
+            "count": 1,
+            "pdb": "7qiy",
+            "resolution": 2.58,
+            "year": 2021
+        }
+    ],
+    "C-1,1-CYS": [
+        {
+            "count": 1,
+            "pdb": "2noq",
+            "resolution": 7.3,
+            "year": 2006
+        }
+    ],
+    "KDO-2,G-CYS": [
+        {
+            "count": 2,
+            "pdb": "8csd",
+            "resolution": 1.95,
+            "year": 2022
+        },
+        {
+            "count": 2,
+            "pdb": "8csf",
+            "resolution": 2.4,
+            "year": 2022
+        },
+        {
+            "count": 2,
+            "pdb": "8fux",
+            "resolution": 1.2,
+            "year": 2023
+        }
+    ],
+    "MAN-1,2-MAN": [
+        {
+            "count": 1,
+            "pdb": "7yhh",
+            "resolution": "N/A",
+            "year": 2022
+        }
+    ],
+    "MAN-1,G-CYS": [
+        {
+            "count": 1,
+            "pdb": "7yhh",
+            "resolution": "N/A",
+            "year": 2022
+        },
+        {
+            "count": 1,
+            "pdb": "7yhg",
+            "resolution": "N/A",
+            "year": 2022
+        }
+    ],
+    "NAG-1,G-CYS": [
+        {
+            "count": 1,
+            "pdb": "8p0l",
+            "resolution": 2.5,
+            "year": 2023
+        },
+        {
+            "count": 1,
+            "pdb": "6cmx",
+            "resolution": 3.1,
+            "year": 2018
+        },
+        {
+            "count": 1,
+            "pdb": "8dfz",
+            "resolution": "N/A",
+            "year": 2022
+        },
+        {
+            "count": 1,
+            "pdb": "6rhe",
+            "resolution": 3.1,
+            "year": 2019
+        },
+        {
+            "count": 1,
+            "pdb": "2kuy",
+            "resolution": "N/A",
+            "year": 2010
+        },
+        {
+            "count": 1,
+            "pdb": "2mvi",
+            "resolution": "N/A",
+            "year": 2014
+        },
+        {
+            "count": 1,
+            "pdb": "7ais",
+            "resolution": 1.75,
+            "year": 2020
+        }
+    ]
+}

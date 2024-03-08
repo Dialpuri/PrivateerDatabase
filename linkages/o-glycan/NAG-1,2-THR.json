@@ -1,44 +1,14 @@
 [
     {
         "count": 1,
-        "pdb": "7p7a",
-        "resolution": 4.76,
-        "year": 2021
+        "pdb": "1ysh",
+        "resolution": 9.5,
+        "year": 2005
     },
     {
         "count": 1,
-        "pdb": "7p77",
-        "resolution": 2.98,
-        "year": 2021
-    },
-    {
-        "count": 1,
-        "pdb": "2nt0",
-        "resolution": 1.79,
-        "year": 2006
-    },
-    {
-        "count": 1,
-        "pdb": "1ing",
-        "resolution": 2.4,
-        "year": 1995
-    },
-    {
-        "count": 1,
-        "pdb": "7e5s",
-        "resolution": 3.6,
-        "year": 2021
-    },
-    {
-        "count": 1,
-        "pdb": "2ypg",
-        "resolution": 2.85,
-        "year": 2012
-    },
-    {
-        "count": 2,
-        "pdb": "7vhh",
-        "resolution": 3.8,
-        "year": 2021
+        "pdb": "6qx9",
+        "resolution": "N/A",
+        "year": 2019
     }
 ]
