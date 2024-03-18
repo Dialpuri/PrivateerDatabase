@@ -63,42 +63,6 @@
             "year": 2018
         }
     ],
-    "C-1,1-TRP": [
-        {
-            "count": 1,
-            "pdb": "5z58",
-            "resolution": 4.9,
-            "year": 2018
-        },
-        {
-            "count": 1,
-            "pdb": "5z56",
-            "resolution": 5.1,
-            "year": 2018
-        },
-        {
-            "count": 1,
-            "pdb": "5z57",
-            "resolution": 6.5,
-            "year": 2018
-        }
-    ],
-    "DC-1,1-TRP": [
-        {
-            "count": 1,
-            "pdb": "6g0l",
-            "resolution": 10.0,
-            "year": 2018
-        }
-    ],
-    "DT-1,1-TRP": [
-        {
-            "count": 1,
-            "pdb": "8b3f",
-            "resolution": 3.1,
-            "year": 2022
-        }
-    ],
     "GAL-1,1-TRP": [
         {
             "count": 60,

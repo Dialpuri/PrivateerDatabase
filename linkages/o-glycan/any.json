@@ -83,62 +83,6 @@
             "year": 2017
         }
     ],
-    "A-1,9-ASP": [
-        {
-            "count": 1,
-            "pdb": "3e3j",
-            "resolution": 6.7,
-            "year": 2008
-        }
-    ],
-    "A-1,9-GLU": [
-        {
-            "count": 1,
-            "pdb": "2om7",
-            "resolution": 7.3,
-            "year": 2007
-        },
-        {
-            "count": 1,
-            "pdb": "7u5d",
-            "resolution": 3.52,
-            "year": 2022
-        },
-        {
-            "count": 1,
-            "pdb": "7u5e",
-            "resolution": 4.03,
-            "year": 2022
-        },
-        {
-            "count": 1,
-            "pdb": "6qx9",
-            "resolution": 3.28,
-            "year": 2019
-        }
-    ],
-    "A-1,9-THR": [
-        {
-            "count": 1,
-            "pdb": "6id0",
-            "resolution": 2.9,
-            "year": 2018
-        },
-        {
-            "count": 1,
-            "pdb": "3j0d",
-            "resolution": 11.1,
-            "year": 2011
-        }
-    ],
-    "A-1,9-TYR": [
-        {
-            "count": 1,
-            "pdb": "3e3j",
-            "resolution": 6.7,
-            "year": 2008
-        }
-    ],
     "A2G-1,1-GLU": [
         {
             "count": 1,
@@ -1639,56 +1583,6 @@
             "year": 2012
         }
     ],
-    "C-1,1-GLU": [
-        {
-            "count": 1,
-            "pdb": "1c04",
-            "resolution": 5.0,
-            "year": 1999
-        }
-    ],
-    "C-1,1-SER": [
-        {
-            "count": 1,
-            "pdb": "7w0f",
-            "resolution": 4.55,
-            "year": 2021
-        }
-    ],
-    "C-1,1-THR": [
-        {
-            "count": 1,
-            "pdb": "1ysh",
-            "resolution": 9.5,
-            "year": 2005
-        },
-        {
-            "count": 1,
-            "pdb": "6qx9",
-            "resolution": 3.28,
-            "year": 2019
-        }
-    ],
-    "C-1,1-TYR": [
-        {
-            "count": 1,
-            "pdb": "6exn",
-            "resolution": 3.7,
-            "year": 2017
-        },
-        {
-            "count": 1,
-            "pdb": "7vpx",
-            "resolution": 3.0,
-            "year": 2021
-        },
-        {
-            "count": 1,
-            "pdb": "6qx9",
-            "resolution": 3.28,
-            "year": 2019
-        }
-    ],
     "C3X-1,1-GLU": [
         {
             "count": 1,
@@ -1703,72 +1597,6 @@
             "pdb": "1red",
             "resolution": 1.6,
             "year": 1995
-        }
-    ],
-    "DA-1,9-ASP": [
-        {
-            "count": 1,
-            "pdb": "6n1p",
-            "resolution": 6.35,
-            "year": 2018
-        }
-    ],
-    "DA-1,9-GLU": [
-        {
-            "count": 2,
-            "pdb": "6wg7",
-            "resolution": 8.3,
-            "year": 2020
-        },
-        {
-            "count": 1,
-            "pdb": "1rb8",
-            "resolution": 3.5,
-            "year": 2003
-        }
-    ],
-    "DA-1,9-SER": [
-        {
-            "count": 1,
-            "pdb": "8e6z",
-            "resolution": 4.1,
-            "year": 2022
-        },
-        {
-            "count": 1,
-            "pdb": "8e6x",
-            "resolution": 4.27,
-            "year": 2022
-        }
-    ],
-    "DC-1,1-ASP": [
-        {
-            "count": 1,
-            "pdb": "5fmf",
-            "resolution": 6.0,
-            "year": 2015
-        }
-    ],
-    "DC-1,1-GLU": [
-        {
-            "count": 1,
-            "pdb": "6wg7",
-            "resolution": 8.3,
-            "year": 2020
-        },
-        {
-            "count": 1,
-            "pdb": "6n1p",
-            "resolution": 6.35,
-            "year": 2018
-        }
-    ],
-    "DC-1,1-SER": [
-        {
-            "count": 2,
-            "pdb": "8e70",
-            "resolution": 4.1,
-            "year": 2022
         }
     ],
     "DFX-1,1-GLU": [
@@ -1809,106 +1637,6 @@
             "pdb": "3vzo",
             "resolution": 1.73,
             "year": 2012
-        }
-    ],
-    "DG-1,9-ASP": [
-        {
-            "count": 1,
-            "pdb": "4j9r",
-            "resolution": 2.35,
-            "year": 2013
-        },
-        {
-            "count": 1,
-            "pdb": "5m0r",
-            "resolution": 8.2,
-            "year": 2016
-        },
-        {
-            "count": 1,
-            "pdb": "5sva",
-            "resolution": 15.3,
-            "year": 2016
-        }
-    ],
-    "DG-1,9-GLU": [
-        {
-            "count": 1,
-            "pdb": "8h3v",
-            "resolution": 4.5,
-            "year": 2022
-        }
-    ],
-    "DG-1,9-SER": [
-        {
-            "count": 1,
-            "pdb": "6g0l",
-            "resolution": 10.0,
-            "year": 2018
-        },
-        {
-            "count": 1,
-            "pdb": "6n1p",
-            "resolution": 6.35,
-            "year": 2018
-        }
-    ],
-    "DT-1,1-ASP": [
-        {
-            "count": 1,
-            "pdb": "7u5e",
-            "resolution": 4.03,
-            "year": 2022
-        }
-    ],
-    "DT-1,1-GLU": [
-        {
-            "count": 1,
-            "pdb": "6g0l",
-            "resolution": 10.0,
-            "year": 2018
-        },
-        {
-            "count": 1,
-            "pdb": "6wg7",
-            "resolution": 8.3,
-            "year": 2020
-        },
-        {
-            "count": 1,
-            "pdb": "1y77",
-            "resolution": 4.5,
-            "year": 2004
-        }
-    ],
-    "DT-1,1-SER": [
-        {
-            "count": 1,
-            "pdb": "4aso",
-            "resolution": 7.0,
-            "year": 2012
-        },
-        {
-            "count": 1,
-            "pdb": "6wg7",
-            "resolution": 8.3,
-            "year": 2020
-        }
-    ],
-    "DT-1,1-THR": [
-        {
-            "count": 1,
-            "pdb": "7apd",
-            "resolution": 3.9,
-            "year": 2020
-        }
-    ],
-    "DT-1,1-TYR": [
-        {
-            "count": 1,
-            "pdb": "6kw5",
-            "resolution": 10.13,
-            "year": 2019
         }
     ],
     "DT6-1,G-SER": [
@@ -2431,42 +2159,6 @@
             "pdb": "1j9c",
             "resolution": 2.9,
             "year": 2001
-        }
-    ],
-    "G-1,2-ASP": [
-        {
-            "count": 1,
-            "pdb": "8omr",
-            "resolution": 3.3,
-            "year": 2023
-        },
-        {
-            "count": 1,
-            "pdb": "7nq4",
-            "resolution": 2.88,
-            "year": 2021
-        }
-    ],
-    "G-1,9-GLU": [
-        {
-            "count": 1,
-            "pdb": "8d9i",
-            "resolution": 3.62,
-            "year": 2022
-        },
-        {
-            "count": 1,
-            "pdb": "3j16",
-            "resolution": 7.2,
-            "year": 2011
-        }
-    ],
-    "G-1,9-SER": [
-        {
-            "count": 1,
-            "pdb": "3j0e",
-            "resolution": 9.9,
-            "year": 2011
         }
     ],
     "G2F-1,1-ASP": [
@@ -6777,42 +6469,6 @@
             "pdb": "5xof",
             "resolution": 1.96,
             "year": 2017
-        }
-    ],
-    "U-1,1-ASP": [
-        {
-            "count": 1,
-            "pdb": "6qw6",
-            "resolution": 2.92,
-            "year": 2019
-        }
-    ],
-    "U-1,1-THR": [
-        {
-            "count": 1,
-            "pdb": "8e5p",
-            "resolution": 4.4,
-            "year": 2022
-        },
-        {
-            "count": 1,
-            "pdb": "8e5l",
-            "resolution": 4.2,
-            "year": 2022
-        },
-        {
-            "count": 1,
-            "pdb": "8e3h",
-            "resolution": 6.5,
-            "year": 2022
-        }
-    ],
-    "U-1,1-TYR": [
-        {
-            "count": 1,
-            "pdb": "6k32",
-            "resolution": 3.2,
-            "year": 2019
         }
     ],
     "X2F-1,1-GLU": [
