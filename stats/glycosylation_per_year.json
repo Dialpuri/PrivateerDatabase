@@ -289,12 +289,12 @@
     },
     "2009": {
         "cGlycans": 0,
-        "ligands": 372,
+        "ligands": 373,
         "nGlycans": 260,
         "oGlycans": 13,
         "sGlycans": 0,
         "totalDepositions": 7288,
-        "totalGlycans": 590
+        "totalGlycans": 591
     },
     "2010": {
         "cGlycans": 1,
@@ -334,12 +334,12 @@
     },
     "2014": {
         "cGlycans": 2,
-        "ligands": 526,
+        "ligands": 527,
         "nGlycans": 430,
         "oGlycans": 28,
         "sGlycans": 1,
         "totalDepositions": 9554,
-        "totalGlycans": 896
+        "totalGlycans": 897
     },
     "2015": {
         "cGlycans": 0,
@@ -353,11 +353,11 @@
     "2016": {
         "cGlycans": 6,
         "ligands": 485,
-        "nGlycans": 602,
+        "nGlycans": 603,
         "oGlycans": 44,
         "sGlycans": 0,
         "totalDepositions": 10806,
-        "totalGlycans": 1028
+        "totalGlycans": 1029
     },
     "2017": {
         "cGlycans": 0,
@@ -383,7 +383,7 @@
         "nGlycans": 713,
         "oGlycans": 40,
         "sGlycans": 1,
-        "totalDepositions": 11474,
+        "totalDepositions": 11473,
         "totalGlycans": 1230
     },
     "2020": {
@@ -407,28 +407,28 @@
     "2022": {
         "cGlycans": 5,
         "ligands": 434,
-        "nGlycans": 1397,
+        "nGlycans": 1402,
         "oGlycans": 33,
         "sGlycans": 5,
         "totalDepositions": 14264,
-        "totalGlycans": 1697
+        "totalGlycans": 1702
     },
     "2023": {
         "cGlycans": 6,
-        "ligands": 256,
-        "nGlycans": 601,
-        "oGlycans": 20,
+        "ligands": 260,
+        "nGlycans": 614,
+        "oGlycans": 21,
         "sGlycans": 2,
-        "totalDepositions": 14478,
-        "totalGlycans": 810
+        "totalDepositions": 14477,
+        "totalGlycans": 827
     },
     "2024": {
         "cGlycans": 0,
-        "ligands": 9,
-        "nGlycans": 19,
+        "ligands": 11,
+        "nGlycans": 25,
         "oGlycans": 2,
         "sGlycans": 0,
-        "totalDepositions": 4095,
-        "totalGlycans": 26
+        "totalDepositions": 4401,
+        "totalGlycans": 34
     }
 }
