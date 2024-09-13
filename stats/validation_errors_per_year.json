@@ -91,8 +91,8 @@
             "totalSugars": 312
         },
         "1995": {
-            "totalCheck": 42,
-            "totalNo": 44,
+            "totalCheck": 43,
+            "totalNo": 43,
             "totalSugars": 286
         },
         "1996": {
@@ -182,7 +182,7 @@
         },
         "2013": {
             "totalCheck": 751,
-            "totalNo": 95,
+            "totalNo": 96,
             "totalSugars": 5032
         },
         "2014": {
@@ -202,7 +202,7 @@
         },
         "2017": {
             "totalCheck": 827,
-            "totalNo": 81,
+            "totalNo": 80,
             "totalSugars": 8128
         },
         "2018": {
@@ -212,12 +212,12 @@
         },
         "2019": {
             "totalCheck": 807,
-            "totalNo": 193,
+            "totalNo": 192,
             "totalSugars": 12107
         },
         "2020": {
             "totalCheck": 1005,
-            "totalNo": 239,
+            "totalNo": 240,
             "totalSugars": 22168
         },
         "2021": {
@@ -231,14 +231,14 @@
             "totalSugars": 32414
         },
         "2023": {
-            "totalCheck": 1128,
-            "totalNo": 100,
-            "totalSugars": 19656
+            "totalCheck": 1186,
+            "totalNo": 115,
+            "totalSugars": 20896
         },
         "2024": {
-            "totalCheck": 348,
-            "totalNo": 19,
-            "totalSugars": 5126
+            "totalCheck": 392,
+            "totalNo": 22,
+            "totalSugars": 6342
         }
     },
     "pdbredo": {
@@ -413,19 +413,19 @@
             "totalSugars": 2338
         },
         "2022": {
-            "totalCheck": 313,
+            "totalCheck": 318,
             "totalNo": 114,
-            "totalSugars": 3725
+            "totalSugars": 3724
         },
         "2023": {
-            "totalCheck": 257,
+            "totalCheck": 258,
             "totalNo": 55,
-            "totalSugars": 2781
+            "totalSugars": 2840
         },
         "2024": {
-            "totalCheck": 83,
-            "totalNo": 0,
-            "totalSugars": 563
+            "totalCheck": 93,
+            "totalNo": 2,
+            "totalSugars": 603
         }
     }
 }
