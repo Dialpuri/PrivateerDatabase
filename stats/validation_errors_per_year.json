@@ -91,8 +91,8 @@
             "totalSugars": 312
         },
         "1995": {
-            "totalCheck": 42,
-            "totalNo": 44,
+            "totalCheck": 43,
+            "totalNo": 43,
             "totalSugars": 286
         },
         "1996": {
@@ -117,7 +117,7 @@
         },
         "2000": {
             "totalCheck": 74,
-            "totalNo": 134,
+            "totalNo": 135,
             "totalSugars": 715
         },
         "2001": {
@@ -146,8 +146,8 @@
             "totalSugars": 1589
         },
         "2006": {
-            "totalCheck": 359,
-            "totalNo": 182,
+            "totalCheck": 358,
+            "totalNo": 183,
             "totalSugars": 1982
         },
         "2007": {
@@ -202,7 +202,7 @@
         },
         "2017": {
             "totalCheck": 865,
-            "totalNo": 87,
+            "totalNo": 86,
             "totalSugars": 8296
         },
         "2018": {
@@ -231,14 +231,14 @@
             "totalSugars": 32422
         },
         "2023": {
-            "totalCheck": 1552,
+            "totalCheck": 1554,
             "totalNo": 128,
-            "totalSugars": 23832
+            "totalSugars": 23834
         },
         "2024": {
-            "totalCheck": 646,
-            "totalNo": 29,
-            "totalSugars": 10531
+            "totalCheck": 653,
+            "totalNo": 31,
+            "totalSugars": 10736
         }
     },
     "pdbredo": {
@@ -293,9 +293,9 @@
             "totalSugars": 168
         },
         "1998": {
-            "totalCheck": 6,
+            "totalCheck": 8,
             "totalNo": 6,
-            "totalSugars": 68
+            "totalSugars": 71
         },
         "1999": {
             "totalCheck": 37,
@@ -314,13 +314,13 @@
         },
         "2002": {
             "totalCheck": 48,
-            "totalNo": 41,
-            "totalSugars": 703
+            "totalNo": 44,
+            "totalSugars": 719
         },
         "2003": {
-            "totalCheck": 47,
-            "totalNo": 52,
-            "totalSugars": 589
+            "totalCheck": 56,
+            "totalNo": 41,
+            "totalSugars": 617
         },
         "2004": {
             "totalCheck": 76,
@@ -333,14 +333,14 @@
             "totalSugars": 1054
         },
         "2006": {
-            "totalCheck": 169,
-            "totalNo": 99,
+            "totalCheck": 168,
+            "totalNo": 102,
             "totalSugars": 1542
         },
         "2007": {
-            "totalCheck": 146,
-            "totalNo": 88,
-            "totalSugars": 1094
+            "totalCheck": 150,
+            "totalNo": 84,
+            "totalSugars": 1174
         },
         "2008": {
             "totalCheck": 146,
@@ -353,14 +353,14 @@
             "totalSugars": 2471
         },
         "2010": {
-            "totalCheck": 280,
-            "totalNo": 101,
-            "totalSugars": 2119
+            "totalCheck": 299,
+            "totalNo": 98,
+            "totalSugars": 2254
         },
         "2011": {
-            "totalCheck": 261,
-            "totalNo": 83,
-            "totalSugars": 2134
+            "totalCheck": 267,
+            "totalNo": 79,
+            "totalSugars": 2147
         },
         "2012": {
             "totalCheck": 410,
@@ -368,14 +368,14 @@
             "totalSugars": 4377
         },
         "2013": {
-            "totalCheck": 543,
-            "totalNo": 120,
-            "totalSugars": 4450
+            "totalCheck": 584,
+            "totalNo": 109,
+            "totalSugars": 4581
         },
         "2014": {
-            "totalCheck": 350,
-            "totalNo": 164,
-            "totalSugars": 3280
+            "totalCheck": 359,
+            "totalNo": 168,
+            "totalSugars": 3455
         },
         "2015": {
             "totalCheck": 462,
@@ -383,9 +383,9 @@
             "totalSugars": 5135
         },
         "2016": {
-            "totalCheck": 575,
-            "totalNo": 128,
-            "totalSugars": 5725
+            "totalCheck": 606,
+            "totalNo": 117,
+            "totalSugars": 5825
         },
         "2017": {
             "totalCheck": 686,
@@ -393,24 +393,24 @@
             "totalSugars": 5756
         },
         "2018": {
-            "totalCheck": 501,
-            "totalNo": 46,
-            "totalSugars": 5508
+            "totalCheck": 511,
+            "totalNo": 39,
+            "totalSugars": 5671
         },
         "2019": {
-            "totalCheck": 452,
-            "totalNo": 159,
-            "totalSugars": 4003
+            "totalCheck": 455,
+            "totalNo": 152,
+            "totalSugars": 4120
         },
         "2020": {
-            "totalCheck": 368,
-            "totalNo": 107,
-            "totalSugars": 3847
+            "totalCheck": 367,
+            "totalNo": 105,
+            "totalSugars": 3872
         },
         "2021": {
-            "totalCheck": 300,
-            "totalNo": 67,
-            "totalSugars": 3249
+            "totalCheck": 307,
+            "totalNo": 65,
+            "totalSugars": 3364
         },
         "2022": {
             "totalCheck": 370,
@@ -418,9 +418,9 @@
             "totalSugars": 4403
         },
         "2023": {
-            "totalCheck": 298,
-            "totalNo": 25,
-            "totalSugars": 4782
+            "totalCheck": 295,
+            "totalNo": 21,
+            "totalSugars": 4823
         },
         "2024": {
             "totalCheck": 115,
