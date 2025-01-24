@@ -27,7 +27,7 @@
         },
         "1.2": {
             "totalCheck": 9,
-            "totalNo": 9,
+            "totalNo": 10,
             "totalSugars": 237
         },
         "1.3": {
@@ -37,7 +37,7 @@
         },
         "1.4": {
             "totalCheck": 31,
-            "totalNo": 35,
+            "totalNo": 34,
             "totalSugars": 906
         },
         "1.5": {
@@ -66,9 +66,9 @@
             "totalSugars": 5856
         },
         "2.0": {
-            "totalCheck": 407,
+            "totalCheck": 408,
             "totalNo": 170,
-            "totalSugars": 4722
+            "totalSugars": 4731
         },
         "2.1": {
             "totalCheck": 470,
@@ -87,13 +87,13 @@
         },
         "2.4": {
             "totalCheck": 691,
-            "totalNo": 265,
+            "totalNo": 266,
             "totalSugars": 6294
         },
         "2.5": {
             "totalCheck": 780,
             "totalNo": 229,
-            "totalSugars": 7614
+            "totalSugars": 7665
         },
         "2.6": {
             "totalCheck": 747,
@@ -103,57 +103,57 @@
         "2.7": {
             "totalCheck": 648,
             "totalNo": 189,
-            "totalSugars": 6730
+            "totalSugars": 6779
         },
         "2.8": {
             "totalCheck": 929,
             "totalNo": 232,
-            "totalSugars": 10786
+            "totalSugars": 10799
         },
         "2.9": {
-            "totalCheck": 811,
+            "totalCheck": 812,
             "totalNo": 178,
-            "totalSugars": 9004
+            "totalSugars": 9048
         },
         "3.0": {
             "totalCheck": 988,
             "totalNo": 195,
-            "totalSugars": 11344
+            "totalSugars": 11375
         },
         "3.1": {
             "totalCheck": 748,
             "totalNo": 141,
-            "totalSugars": 9188
+            "totalSugars": 9190
         },
         "3.2": {
-            "totalCheck": 902,
+            "totalCheck": 909,
             "totalNo": 128,
-            "totalSugars": 9821
+            "totalSugars": 9882
         },
         "3.3": {
-            "totalCheck": 518,
-            "totalNo": 103,
-            "totalSugars": 8849
+            "totalCheck": 521,
+            "totalNo": 105,
+            "totalSugars": 8938
         },
         "3.4": {
-            "totalCheck": 708,
+            "totalCheck": 709,
             "totalNo": 86,
-            "totalSugars": 8913
+            "totalSugars": 8940
         },
         "3.5": {
-            "totalCheck": 701,
-            "totalNo": 128,
+            "totalCheck": 702,
+            "totalNo": 127,
             "totalSugars": 10753
         },
         "3.6": {
-            "totalCheck": 396,
+            "totalCheck": 400,
             "totalNo": 50,
-            "totalSugars": 6950
+            "totalSugars": 6985
         },
         "3.7": {
             "totalCheck": 239,
             "totalNo": 50,
-            "totalSugars": 4994
+            "totalSugars": 5012
         },
         "3.8": {
             "totalCheck": 230,
@@ -186,9 +186,9 @@
             "totalSugars": 1795
         },
         "4.4": {
-            "totalCheck": 76,
+            "totalCheck": 78,
             "totalNo": 5,
-            "totalSugars": 1449
+            "totalSugars": 1456
         },
         "4.5": {
             "totalCheck": 82,
@@ -608,8 +608,8 @@
             "totalSugars": 2086
         },
         "1.7": {
-            "totalCheck": 70,
-            "totalNo": 50,
+            "totalCheck": 71,
+            "totalNo": 48,
             "totalSugars": 1977
         },
         "1.8": {
@@ -625,7 +625,7 @@
         "2.0": {
             "totalCheck": 229,
             "totalNo": 119,
-            "totalSugars": 4028
+            "totalSugars": 4037
         },
         "2.1": {
             "totalCheck": 252,
@@ -638,13 +638,13 @@
             "totalSugars": 3901
         },
         "2.3": {
-            "totalCheck": 292,
+            "totalCheck": 291,
             "totalNo": 111,
             "totalSugars": 3640
         },
         "2.4": {
             "totalCheck": 531,
-            "totalNo": 152,
+            "totalNo": 148,
             "totalSugars": 4895
         },
         "2.5": {
@@ -654,8 +654,8 @@
         },
         "2.6": {
             "totalCheck": 426,
-            "totalNo": 110,
-            "totalSugars": 3886
+            "totalNo": 114,
+            "totalSugars": 3891
         },
         "2.7": {
             "totalCheck": 349,
@@ -663,9 +663,9 @@
             "totalSugars": 3315
         },
         "2.8": {
-            "totalCheck": 457,
+            "totalCheck": 456,
             "totalNo": 129,
-            "totalSugars": 3860
+            "totalSugars": 3862
         },
         "2.9": {
             "totalCheck": 419,
@@ -675,7 +675,7 @@
         "3.0": {
             "totalCheck": 501,
             "totalNo": 87,
-            "totalSugars": 3338
+            "totalSugars": 3354
         },
         "3.1": {
             "totalCheck": 378,
@@ -685,7 +685,7 @@
         "3.2": {
             "totalCheck": 368,
             "totalNo": 71,
-            "totalSugars": 1979
+            "totalSugars": 1983
         },
         "3.3": {
             "totalCheck": 218,
@@ -713,9 +713,9 @@
             "totalSugars": 287
         },
         "3.8": {
-            "totalCheck": 80,
-            "totalNo": 9,
-            "totalSugars": 486
+            "totalCheck": 73,
+            "totalNo": 8,
+            "totalSugars": 454
         },
         "3.9": {
             "totalCheck": 92,
