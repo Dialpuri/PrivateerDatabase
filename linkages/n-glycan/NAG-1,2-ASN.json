@@ -734,13 +734,13 @@
     {
         "count": 4,
         "pdb": "7mbs",
-        "resolution": "N/A",
+        "resolution": 3.5,
         "year": 2021
     },
     {
         "count": 4,
         "pdb": "7mbr",
-        "resolution": "N/A",
+        "resolution": 2.8,
         "year": 2021
     },
     {
@@ -34106,7 +34106,7 @@
     {
         "count": 1,
         "pdb": "7ral",
-        "resolution": "N/A",
+        "resolution": 3.7,
         "year": 2021
     },
     {
@@ -43904,8 +43904,8 @@
     {
         "count": 4,
         "pdb": "6lco",
-        "resolution": 2.0,
-        "year": 2019
+        "resolution": "N/A",
+        "year": "N/A"
     },
     {
         "count": 7,
@@ -44972,7 +44972,7 @@
     {
         "count": 40,
         "pdb": "7m8k",
-        "resolution": "N/A",
+        "resolution": 3.8,
         "year": 2021
     },
     {
