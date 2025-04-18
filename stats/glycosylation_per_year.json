@@ -239,7 +239,7 @@
         "nGlycans": 137,
         "oGlycans": 11,
         "sGlycans": 0,
-        "totalDepositions": 4145,
+        "totalDepositions": 4144,
         "totalGlycans": 390
     },
     "2004": {
@@ -424,12 +424,12 @@
     },
     "2024": {
         "cGlycans": 0,
-        "ligands": 289,
-        "nGlycans": 739,
+        "ligands": 290,
+        "nGlycans": 740,
         "oGlycans": 15,
         "sGlycans": 0,
-        "totalDepositions": 15309,
-        "totalGlycans": 945
+        "totalDepositions": 15308,
+        "totalGlycans": 947
     },
     "2025": {
         "cGlycans": 0,
@@ -437,7 +437,7 @@
         "nGlycans": 14,
         "oGlycans": 0,
         "sGlycans": 0,
-        "totalDepositions": 5084,
+        "totalDepositions": 5431,
         "totalGlycans": 18
     }
 }
