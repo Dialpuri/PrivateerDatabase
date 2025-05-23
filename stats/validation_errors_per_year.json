@@ -146,8 +146,8 @@
             "totalSugars": 1589
         },
         "2006": {
-            "totalCheck": 359,
-            "totalNo": 182,
+            "totalCheck": 358,
+            "totalNo": 183,
             "totalSugars": 1982
         },
         "2007": {
@@ -182,7 +182,7 @@
         },
         "2013": {
             "totalCheck": 751,
-            "totalNo": 96,
+            "totalNo": 95,
             "totalSugars": 5032
         },
         "2014": {
@@ -231,19 +231,19 @@
             "totalSugars": 32422
         },
         "2023": {
-            "totalCheck": 1636,
+            "totalCheck": 1634,
             "totalNo": 127,
-            "totalSugars": 25060
+            "totalSugars": 25057
         },
         "2024": {
-            "totalCheck": 1239,
-            "totalNo": 69,
-            "totalSugars": 19653
+            "totalCheck": 1322,
+            "totalNo": 86,
+            "totalSugars": 21002
         },
         "2025": {
-            "totalCheck": 39,
+            "totalCheck": 112,
             "totalNo": 5,
-            "totalSugars": 808
+            "totalSugars": 1094
         }
     },
     "pdbredo": {
@@ -375,7 +375,7 @@
         "2013": {
             "totalCheck": 619,
             "totalNo": 83,
-            "totalSugars": 5025
+            "totalSugars": 5023
         },
         "2014": {
             "totalCheck": 588,
@@ -398,19 +398,19 @@
             "totalSugars": 6881
         },
         "2018": {
-            "totalCheck": 507,
+            "totalCheck": 506,
             "totalNo": 40,
-            "totalSugars": 5663
+            "totalSugars": 5662
         },
         "2019": {
             "totalCheck": 532,
             "totalNo": 103,
-            "totalSugars": 5111
+            "totalSugars": 5129
         },
         "2020": {
             "totalCheck": 446,
-            "totalNo": 69,
-            "totalSugars": 4714
+            "totalNo": 67,
+            "totalSugars": 4722
         },
         "2021": {
             "totalCheck": 370,
@@ -423,19 +423,19 @@
             "totalSugars": 4946
         },
         "2023": {
-            "totalCheck": 368,
-            "totalNo": 21,
-            "totalSugars": 5244
+            "totalCheck": 369,
+            "totalNo": 22,
+            "totalSugars": 5301
         },
         "2024": {
-            "totalCheck": 231,
+            "totalCheck": 245,
             "totalNo": 18,
-            "totalSugars": 2351
+            "totalSugars": 2420
         },
         "2025": {
-            "totalCheck": 17,
+            "totalCheck": 20,
             "totalNo": 2,
-            "totalSugars": 89
+            "totalSugars": 102
         }
     }
 }
