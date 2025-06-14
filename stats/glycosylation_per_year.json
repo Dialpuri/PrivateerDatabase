@@ -415,29 +415,29 @@
     },
     "2023": {
         "cGlycans": 7,
-        "ligands": 483,
-        "nGlycans": 1343,
+        "ligands": 484,
+        "nGlycans": 1344,
         "oGlycans": 48,
         "sGlycans": 2,
         "totalDepositions": 14450,
-        "totalGlycans": 1711
+        "totalGlycans": 1713
     },
     "2024": {
         "cGlycans": 1,
-        "ligands": 373,
-        "nGlycans": 958,
+        "ligands": 383,
+        "nGlycans": 986,
         "oGlycans": 22,
         "sGlycans": 0,
-        "totalDepositions": 15304,
-        "totalGlycans": 1221
+        "totalDepositions": 15302,
+        "totalGlycans": 1257
     },
     "2025": {
         "cGlycans": 0,
-        "ligands": 20,
-        "nGlycans": 45,
+        "ligands": 22,
+        "nGlycans": 47,
         "oGlycans": 1,
         "sGlycans": 0,
-        "totalDepositions": 7617,
-        "totalGlycans": 60
+        "totalDepositions": 8079,
+        "totalGlycans": 64
     }
 }
