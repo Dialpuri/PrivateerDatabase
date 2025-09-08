@@ -221,7 +221,7 @@
         "nGlycans": 103,
         "oGlycans": 11,
         "sGlycans": 0,
-        "totalDepositions": 2811,
+        "totalDepositions": 2810,
         "totalGlycans": 221
     },
     "2002": {
@@ -365,7 +365,7 @@
         "nGlycans": 609,
         "oGlycans": 47,
         "sGlycans": 0,
-        "totalDepositions": 11058,
+        "totalDepositions": 11055,
         "totalGlycans": 1032
     },
     "2018": {
@@ -374,7 +374,7 @@
         "nGlycans": 643,
         "oGlycans": 26,
         "sGlycans": 1,
-        "totalDepositions": 11155,
+        "totalDepositions": 11156,
         "totalGlycans": 1025
     },
     "2019": {
@@ -383,7 +383,7 @@
         "nGlycans": 716,
         "oGlycans": 40,
         "sGlycans": 1,
-        "totalDepositions": 11469,
+        "totalDepositions": 11468,
         "totalGlycans": 1233
     },
     "2020": {
@@ -392,7 +392,7 @@
         "nGlycans": 1108,
         "oGlycans": 38,
         "sGlycans": 1,
-        "totalDepositions": 13984,
+        "totalDepositions": 13983,
         "totalGlycans": 1542
     },
     "2021": {
@@ -410,34 +410,34 @@
         "nGlycans": 1427,
         "oGlycans": 36,
         "sGlycans": 5,
-        "totalDepositions": 14254,
+        "totalDepositions": 14253,
         "totalGlycans": 1730
     },
     "2023": {
         "cGlycans": 7,
-        "ligands": 485,
-        "nGlycans": 1345,
+        "ligands": 490,
+        "nGlycans": 1352,
         "oGlycans": 48,
         "sGlycans": 2,
         "totalDepositions": 14450,
-        "totalGlycans": 1715
+        "totalGlycans": 1725
     },
     "2024": {
         "cGlycans": 1,
-        "ligands": 397,
-        "nGlycans": 1029,
+        "ligands": 478,
+        "nGlycans": 1210,
         "oGlycans": 30,
         "sGlycans": 0,
-        "totalDepositions": 15302,
-        "totalGlycans": 1310
+        "totalDepositions": 15297,
+        "totalGlycans": 1550
     },
     "2025": {
         "cGlycans": 0,
-        "ligands": 34,
-        "nGlycans": 70,
-        "oGlycans": 1,
+        "ligands": 89,
+        "nGlycans": 162,
+        "oGlycans": 5,
         "sGlycans": 0,
-        "totalDepositions": 8649,
-        "totalGlycans": 95
+        "totalDepositions": 12054,
+        "totalGlycans": 225
     }
 }
