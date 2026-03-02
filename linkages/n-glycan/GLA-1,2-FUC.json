@@ -1,14 +1,14 @@
 [
     {
-        "count": 1,
-        "pdb": "2noq",
-        "resolution": 7.3,
-        "year": 2006
+        "count": 6,
+        "pdb": "5tiq",
+        "resolution": 2.54,
+        "year": 2016
     },
     {
-        "count": 1,
-        "pdb": "1c04",
-        "resolution": 5.0,
-        "year": 1999
+        "count": 12,
+        "pdb": "5tip",
+        "resolution": 2.0,
+        "year": 2016
     }
 ]
